@@ -1,0 +1,22 @@
+# fields prefixed with _ are hidden from the output
+fields:
+  _stock1:
+    template: "./data/random_walk.yml"
+  _stock2:
+    template: "./data/random_walk.yml"
+  _stock3:
+    template: "./data/random_walk.yml"
+  _tmstmp:
+    template: "./data/timestamp.yml"
+
+  val1:
+    lambda: this._stock1.value
+
+  val2:
+    lambda: this._stock2.value
+
+  val3:
+    lambda: this._stock3.value
+    
+  timestamp:
+    lambda: this._tmstmp.time

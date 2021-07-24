@@ -1,0 +1,1001 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+0,0,2,gkyyupqxyupngwegiedcbsoxgffyxyieoackupxt0,female,47.54895454721817,3,3,349231,399.1557743866004,C85,Q
+1,1,3,djyjwsgmlarnrafswatkolmgowsfhmtrarafrxle1,female,11.393900569299465,1,1,392096,352.8902424579812,B3,C
+2,1,2,japuexjzdxzsvofdwuvumtixofiscykokpxjbamw2,female,45.862454320125934,5,3,350052,58.65599627976129,D45,S
+3,0,1,dbwiiygrtmvzxjbmwldoctgkdxcbawywmezbxkwv3,male,,2,6,349227,17.575730251174175,B39,C
+4,1,3,detiipwurjhjnjvfzdzqchppmkbarijleaqxajka4,male,21.345229749415704,3,6,33638,5.305117008833464,E49,Q
+5,0,2,xoafkfxiuijoaqvqtplqldcywdmucnpxrmxndpbz5,male,54.1813621163257,4,0,364851,269.72267505190285,A34,C
+6,1,3,jhvubapdfozrpzorzlcwlsmmklopallphswyqmpq6,female,49.77923293291521,4,5,343276,418.58013872387266,E36,S
+7,1,2,saydkrdohmftgwdcjelktdigtqtdpapgogsuzjmg7,male,35.37073458576936,0,4,PC 17754,25.064541876654864,D,Q
+8,1,3,qxjiwulvbjwsmbqvofyccrmvmqxkqvztcxqmabnd8,male,69.26988133706806,2,3,STON/O 2. 3101269,306.676840792445,B101,C
+9,0,3,jmjywbpcnaakqylzwfdotgtrxqzcwjrmykskxxeq9,female,62.00137928057223,0,4,315086,56.58598486996391,E44,
+10,1,3,sadckrivpoyscpxtplsagkpnebimlrayaxmcpsmm10,female,58.44727713499157,3,3,C 17369,193.81511582803992,C62 C64,Q
+11,1,2,csnvietjagrwzrwzwwllgeiptqaknhdrtllgkgtj11,male,51.78138117019225,5,5,349213,418.30251538509333,E36,S
+12,0,1,negrurvdocssiqobvuoqwkosvhzszbjbifomwdyt12,male,78.02914899929739,2,6,349248,306.59157972627753,B102,Q
+13,1,2,pyltlesiedvprwvchaaihpnufrqyuemlkynlalhf13,male,5.520432782866422,3,4,SC/PARIS 2131,177.38184197068324,A10,C
+14,1,1,rtbebbggobdxudwfntpfurgtywzrelrnwjgmvgmu14,female,7.4063449283415945,5,0,113798,296.79604179898746,C99,
+15,1,3,wqwkvrixnipmypxsfjbybkcodtmxksyeytkfedej15,male,38.69149023777115,1,0,11752,351.4599946409085,E50,Q
+16,0,1,jpdkdgoyfiiioiiqdvdgwfaqvpaqyhxernsrdekz16,male,5.395764732281151,1,4,112052,452.9329483772476,C70,C
+17,0,3,sqrrolekhbzwvuplrsyljvfubzsmmgzgcfkrgqws17,male,47.80888035249763,5,4,CA. 2343,316.44924042426004,B3,S
+18,0,1,gnigzcuzsuxyaufvbgnnwxfbdjfexmqetgblsytu18,male,71.97350340915382,0,2,A/5. 10482,23.47393948743601,B5,C
+19,1,1,panvgyzktoqcvryyzotitawqjeuonqnyagfyjuvu19,male,47.41285438203043,5,4,PC 17595,125.50665554771474,E50,Q
+20,0,3,ppmmmoxxnszefigcbcpcadukzdvxegvzovortmnc20,female,79.6107183167991,1,4,STON/O 2. 3101294,290.25135932896416,B42,S
+21,0,3,aawxgkxqwwwlabuungfqcfgunctkvkbgmqslkuvm21,female,73.27607717832163,2,2,C.A. 17248,377.7760518317001,C22 C26,Q
+22,1,2,pqfoxupqtmazheifpjljgwibmslvrviknjqapsqa22,male,39.135000526327055,5,1,345780,461.32918809927094,D30,Q
+23,0,3,jihdaqaaoshcycqkwsjlmutnuaswxrxqgvsxfolm23,female,63.68147754782465,3,1,A/5. 13032,456.3920505012559,C65,
+24,1,3,gdnfblyleinaccmxvqhcdgisqumbnipyrffazels24,male,7.12057206509154,5,0,14312,14.469952991614042,B96 B98,C
+25,1,1,zmvgjfflajfenothszifwwiydoltjnjqksoesbhv25,female,38.10965586478635,1,4,364846,152.4770268149162,D37,
+26,0,2,rdxebwvtdgcpvhuaycgwuijlnjyunwnumvfmojhf26,female,76.42169010690402,1,4,19950,291.0847808664403,B78,S
+27,0,2,tevgdcvgteqrgnlofznvfkjiezworoktzqelwwbl27,male,14.084569733270607,8,2,SOTON/O.Q. 3101307,246.5766939547392,C99,C
+28,1,1,uqqaqfklvedqwazarntvxkeyxbhkkbwshjmjothf28,female,78.45171926733289,2,3,349207,136.35647886650904,B96 B98,S
+29,1,1,izmvrfoafygmlurspeqhiljkmewvljymrxuxpdpl29,male,27.9268709808336,5,0,330959,506.76493041132034,B82 B84,C
+30,0,2,akpzpbqyeaxhwcfqthocdkymwpkwoxqjbribrivw30,female,12.22412673735985,0,2,2629,374.0183242889718,C23 C25 C27,Q
+31,0,2,msocikzgvqhvwysaircwjdnkmvaticytkunmfeju31,male,73.94002190090326,8,3,A/5 3536,204.6107319612927,B57 B59 B63 B66,C
+32,1,2,icxsyjksfkpriprqajaoxwdoaanvwkvxtbjdqidw32,male,27.73706820260336,0,3,345777,486.7386841738436,C118,C
+33,1,3,vpyxamaxbhwveuvtzjzwqjqulkgjwqufmknhnmjf33,male,21.35149890304961,0,3,349248,54.83866068814419,B20,C
+34,0,2,cqsegqxiwgtxfxbbdruoglvlsrblwnxlxwvdowyy34,male,15.560205723684817,8,4,112050,308.51443306027403,F38,C
+35,1,3,nghnohvuhypvztfqjuhblzdhuvqmvgxjgkqyjsip35,female,30.456274529961814,1,5,35852,3.2237763852000225,E8,C
+36,1,1,hbltifbanedrbvkgjumfxwaafcyzhryoruflbmfu36,female,64.13987192495263,0,0,350417,433.67092128697743,C54,C
+37,1,3,fbmflqokecadsozmofmqghtjvizawlgvzymbcwkn37,male,11.241704947201335,5,4,35852,152.38228655996076,C47,C
+38,0,1,nwlnnbvfegszciicplzzzgpxohnxmkezwobyjxhg38,male,41.79691887451037,4,6,SOTON/O.Q. 3101307,345.3204484785936,E33,Q
+39,0,1,ztkxzgigiudikjorjrkeagydntmlfddcrbwbtlcy39,male,35.53405816407282,4,1,370372,101.10021100906181,E50,Q
+40,1,3,xmeyhuuwxlumobdhlfmyrvpvwdbqmxawegsztqrn40,male,18.994581587701536,0,0,3101276,328.3617134808867,D20,S
+41,1,2,mkrvwciycoiumssxhkcvmglwhnzbjyvxxxolhbvq41,male,56.13054727805211,5,0,343275,96.79481004204446,D50,Q
+42,0,3,swpiemtpwsjaaxrbkkdcbjwkqudolendvpsojhsc42,female,14.320946330665528,4,2,374746,147.22501820147204,C65,Q
+43,1,1,njemopmuzkswulvokschqsnbtuadweqqdfkuogmb43,male,35.70419144368578,0,5,113784,30.423506174813625,C118,
+44,0,1,dielricdbtdnhtqfwunsgfrgjhmyiasqvlyykfsd44,male,41.1805213791339,1,3,36866,116.52613240394894,D48,C
+45,1,3,ylzmjdxtqcgrplkvvqixhqvafpldcablwtigviyz45,female,1.713988159371865,3,5,36947,113.32412535572224,B86,C
+46,0,3,cahplrmvrncqieuexfsmckuplnzkxolvkbdtzerb46,female,7.862605032560337,1,5,243880,101.17958752976939,B37,
+47,0,2,eiddpuirbsdzvytunwqozndzrmonzfmiozqacjlw47,male,21.075255957088014,3,3,17463,4.452999874547081,E49,C
+48,1,1,bpujwjtxzxuyuzsgtdqbfnlllfkscxqanqwbakjz48,male,26.55212523692966,1,4,2697,491.06392227169266,B42,Q
+49,1,3,izcowvcwipqdnczhkhqhbznnajmtdzhvbrwckfcl49,male,29.222452779959966,0,5,3101278,68.11062575759806,E38,Q
+50,1,3,lfkuenauqtwevdmanslawslsrqlsvdbnyklttysd50,male,20.18584265590448,0,2,349249,29.64853664653754,G6,C
+51,0,1,ngpcddugqnplbsknyqucrktfjepxmmciucricioz51,male,51.36385110826461,0,4,343276,310.21670551102443,E10,Q
+52,0,2,njweereawebluwesmhcmpycbrqdokrvkpqihkpyr52,female,34.03447092474214,0,1,W./C. 14258,89.75810842747622,A20,
+53,0,3,wqywmkgvzxagpuqtqthofbadflhqctrbplxmtpbu53,male,12.67709391202054,4,5,12233,46.024093902818485,E33,Q
+54,1,3,lwvoegnbheeugzkujuvjgihwsqpgjunhxwlxlwkr54,male,17.609497271992062,0,3,243847,348.51310824591934,F2,Q
+55,1,2,swbfsqkemlcbnqfadtslffaimdffisykkltcuzjf55,male,30.294095816589365,4,4,2223,121.7999649553029,C62 C64,Q
+56,1,1,dfodlgspwkmqdnakeamsvplilaphvosnqohtgttz56,female,43.92174578659886,5,1,367228,339.8217727950447,A6,C
+57,0,2,fzweygebjmqeeawmsdonnvgjtjqvdnxoxhzzgzpg57,female,56.55994116895987,0,1,250655,84.14911901378157,C32,
+58,1,2,aedwidkfmujdlszporlxantxytqiinuxrxbsehjc58,male,42.40349237219431,8,6,347054,472.0781496902699,E12,S
+59,1,3,dextisxlchushtyyqkwqadhpakiljpfmukazjumk59,female,31.084407849860355,1,1,250647,127.84785519337727,C101,
+60,0,1,hlfgjkmzeyelqelffiowyzllewjpuhafpvxszvwj60,male,58.3042673861758,3,4,220845,95.23990430152982,B38,Q
+61,0,1,wjrqvlsxbvkrpqyeuuudgltmucylbfcyjiykznkq61,female,27.53476364903623,5,4,13502,459.7194966467071,D46,S
+62,1,2,xzincswmvzrfpzoytehaahlkyyjlublfndaaemee62,female,58.27578847213492,0,1,367230,269.9429370145535,C148,C
+63,0,1,bbzywlxlviwdoluxpcsjxwryzhwkxgeuqnrahobc63,female,71.89811357442976,0,4,19928,295.98692025538463,A34,S
+64,1,2,nnqhwtzxglrxuhaookgtddffhirmqefltawqjqng64,male,50.56807561365835,5,6,237798,307.14366947509177,A26,C
+65,1,1,wcbpvbbbkbosznxqhckkccelipqujfdzfsfrpsgq65,female,,3,0,3101298,209.7985070638847,C95,C
+66,1,3,zvdroifgbgvzukfgybqknecdqpjiqdtmgtwcajrv66,female,,4,2,C.A. 34651,481.14347663018833,C50,Q
+67,0,3,hrluyslpxpwtgtbpuvpnkhcnppxgdrgsypeghbve67,male,18.674128298354063,0,4,11771,20.275782212675047,A6,S
+68,0,3,emlpulwdxmdrwcfsyvdhemurasydgxysqzeqjqbu68,male,53.91761133555028,5,6,F.C.C. 13531,47.25575011421474,B79,C
+69,0,2,onwsnmuothrvayghiownnpcpzihnunhnadodnnjx69,male,6.77162542223918,4,2,11771,147.29599522354718,B22,C
+70,0,1,inpqfgnvzcmhgljkhlypddgzjohtbohfqjwlgxro70,female,65.61552165982522,0,1,STON/O 2. 3101292,55.21200204710619,C86,C
+71,1,3,idtrssmvofkekzyhzhomrdwndbuwsoycllmoscqb71,male,22.605515385362093,3,6,347061,119.40158954313958,E25,C
+72,0,3,sarporksnkqmkeikewwxuolqwalmbigdnkzswkkz72,male,25.44922109006058,0,0,STON/O 2. 3101293,23.662005679825683,C49,C
+73,1,2,xlzodgdeqqdzskhjpkwemofnqxpvrnskrkrkbebx73,female,60.85858809631779,0,5,350060,475.5256515775073,A36,C
+74,1,2,xkxwcdyjcajrxafrdouucsloqipzhrsximvuvzvd74,female,68.80599679292885,8,6,7267,444.7258637629962,D11,C
+75,1,2,wnqlxcuczvvhcpqqndbjqzykkoyanhmvnbxfspzd75,female,6.837224482697186,4,5,113059,126.78918490600728,E12,S
+76,1,1,hvlbiemykuaolijsodckiyjafezkcbjoapjxanqd76,female,10.990847708789733,2,2,2664,116.85200936552855,F38,Q
+77,1,3,gvlnqzorefbcbbeecffdoykuitwkqwyphiamfwqw77,male,46.08511681720533,8,2,14973,241.09280723516264,C68,
+78,1,3,kjchzmlslmtvwlyyhwkmvebklcicmblezvvghzdu78,female,24.65141113319727,0,1,2674,169.43068618774677,B96 B98,
+79,0,3,txkvazcesuoowftnsbpfkvqewnhklqadxmrasxyn79,female,27.308506005504455,2,0,14313,456.07865632353895,C85,
+80,0,3,rzywpqiupwblbkdlkhfoyukfpdpapgwwndiuefnr80,male,23.803669305503824,3,6,2699,5.848291372120953,C70,C
+81,1,1,rnpolreqvselmpkoltdfdiovoiyejuxszqnshycu81,female,31.947133062450252,0,2,330958,102.86781459241641,B102,Q
+82,1,1,sjhshexplhbnxwvvipubunnfrkykkrykioatreui82,male,3.772149227874786,0,5,113788,192.86875826707828,D48,Q
+83,1,1,wgqgqygnhuqdwxscxftftlwwzifwgopyfbvsgtjm83,male,43.783830849883,0,6,371362,75.34716469707514,E36,C
+84,1,1,ulykypanphucdcckiftxcvxiqmwnkrfomdjqllxn84,male,67.75694502804448,0,1,349247,43.04226088870617,F33,S
+85,0,3,mriurezrvkkdbjogohwzfhmbuhfekclzpmshcjgn85,male,66.23504710136831,1,5,2631,451.6414495490103,F2,Q
+86,0,2,fwvvtqllzhcsjjwsknslouurxjnwxockdxoxqfod86,male,41.76696698388357,8,6,349208,349.096381613071,A7,C
+87,0,3,lhsgpdzfwqwlbgjzdxfagchxrxqaehgisygaptok87,male,58.93232264802069,3,1,11767,12.731117084563795,C93,S
+88,0,2,dztmyupsojwmfbenotiekluxlrbfejospuouutfw88,female,29.36974816870096,0,5,349254,479.8198442363972,F G63,
+89,1,1,wcvrcqsjgdbhsttggoxyaedcrvuojvaajldtveiq89,male,19.56547063115285,1,2,SC/PARIS 2149,313.7809994053463,A14,
+90,0,3,igpuewvntywhlwplorjadrcekqsvtgyvjrxixuvk90,male,7.779104655476555,1,2,2699,176.54234743238067,B42,C
+91,0,3,jofozgvoeskxgaqbrfftoihpwydeethqcsezsbei91,female,51.72936005139075,2,4,368703,493.7437577941831,B35,
+92,0,3,lzhpvarneifaitcgpqqjutwkgqlnpqdqcwrlqnrk92,male,2.766818909270485,8,6,17465,177.90490613311223,D26,
+93,1,1,hxrpwbzlcbiuvresxwcadtdlgtsykbrtpdsvthhh93,female,67.86311443059061,0,6,394140,433.59692591266867,A10,S
+94,0,3,lgdrobbhuwwqbjhllpfcgiytiptkzrakjaijlthq94,female,66.39060644775677,1,2,2668,437.47597045328257,B19,S
+95,1,2,orchymqxvlknevockewiihktufmzrmvjvatdsztj95,female,,4,4,234818,370.1112173897375,G6,
+96,1,2,bhqdbwbxejixvxkvccnrcukmzrslfovvnrdjeyxz96,male,49.960790601285375,1,5,350026,300.8406357316394,B79,S
+97,1,3,hagbtqoeaiwfakvzndydasxuwmkhtllbrvwgfztv97,male,62.73211636153849,3,2,112052,113.98438553662362,B22,C
+98,0,3,lnuolxoifrjursubqpitxrbsqxdryrxhxomjumqg98,female,48.15310994278787,0,2,CA 2144,397.283091513761,B5,S
+99,1,1,quotbprtnricyxdmshxudygpfqnianznvdqlnodx99,male,43.85850910621293,1,3,110564,199.98319312641004,B78,C
+100,1,2,yexzsvnbcpxmwnovoasihgzkcxjtlhjoxpjduayp100,male,71.21964050975416,8,1,370369,171.7581634912706,D15,S
+101,1,1,ckhaypmlhsqnerdxkgsluohfwmvvsbugxsquurxe101,male,44.516762120034464,5,3,2647,24.540676851213366,C103,Q
+102,1,2,upilfpcvtlarryzobvktqgqicmcqfvghjzqontso102,male,10.816263974956994,4,3,6563,439.69336889311273,C2,C
+103,1,1,pjqutihnncmkxbhrnunlubxosdpkxuodpjrslzma103,female,6.334561479635315,1,1,SOTON/OQ 392090,74.89123951222045,B37,C
+104,1,2,jlbijrehillprmxftutfboicqtyvpqjgabltgbga104,male,74.54935626749725,8,4,250652,228.70340271789988,E12,Q
+105,0,2,zvunbbgspzsbcgbkpedldlsmvjspoofoqhrakgwb105,female,47.55156367359697,3,3,349254,426.1233807967274,D20,S
+106,0,3,cmwmoemswmakjwezgqusmsehmlfcfwibrlkkidur106,male,13.324038740184127,4,4,350036,305.87054401182223,C70,S
+107,0,3,mjxdxlqaqqpmvfxgcbwyodimvatuanasxrzrficg107,female,19.246595609526786,0,0,349252,6.472910241835122,A31,Q
+108,0,3,hbqwjftwcsfhsjqbzfywnzecuialrjhvplbffvpr108,male,48.6340773526767,2,2,248698,329.9857886738182,D49,C
+109,1,2,gzgkiwcescbssmcuupyxjtuixeldjkyjsrduyjgd109,female,21.192212476197092,0,1,SOTON/O2 3101272,173.512561368943,E8,
+110,0,2,wzzfrgwlwkppyzjxfxnmmqmioiuskgskzcxczwgh110,male,39.392645644436385,5,0,345767,118.08391387352901,D17,S
+111,0,1,pcdmqublrzhtgkwulmmampooropdrybofdfqzyhq111,male,41.53316133774501,5,4,PC 17473,386.5685004203573,C2,S
+112,0,2,kwjsholbilpnocgpnijkaohhvovvvvihurmqpkhl112,male,3.666518211107431,1,4,374910,128.85423546697504,B80,C
+113,0,3,dmfkgpydttqliyqmltouifktwdhkrdqfdcqeyeur113,male,0.8203173229398468,4,2,2677,25.897459642545268,A16,
+114,1,1,uypmsmebdmajocopwivfkbfkdhetcpqxxthwsvff114,male,48.75036042738206,8,6,C.A. 31921,288.1994704562989,C125,S
+115,1,1,wbexsweomlhmxosojhmnyrdooyqraezfgtkelrmx115,female,78.79703147732094,2,1,315151,121.99461001521311,E46,S
+116,0,3,ayjkxvycmubflrtlsxsfpifecsweucntcmrpzbjl116,female,0.5999863560372716,3,5,PC 17604,137.98626467727433,C86,C
+117,0,1,gtosfapcmfddkdebzhajllrtlwyeltoexofscbfp117,male,22.5984129603841,1,3,349910,455.3440200170695,D21,Q
+118,0,2,kgslzantpkjhidtvxjltdneriweeerxzvzfjmwzl118,female,51.788953722487484,5,4,PC 17604,502.73948584324523,E58,
+119,0,1,ahluatufdfmcguvunymneawehycrbdauiogwfett119,male,42.33557371570942,2,3,371362,35.58797186837876,D9,Q
+120,0,1,hpzbpvlosnbisamvieqgzmnyzxjhewspjesdwsmr120,male,23.02306415846522,4,0,4579,22.54624091043762,,Q
+121,0,3,kgftqscoqzbdwvahozkjqwaobhffpdsncpmxktpg121,male,12.463226545960916,8,5,347464,436.46393367532966,C91,S
+122,0,3,dkjxdndjscsfdnaxwpwlnslyafzfhflpqdjhcyjl122,male,54.6736646415377,4,0,SOTON/OQ 3101317,37.53613160113963,E46,Q
+123,1,1,riyvucutocomedcxtevbprccwewmqacabjhxhlwd123,female,66.49662056424404,0,5,364850,46.87433925796249,C78,
+124,1,3,yjvoxlxygueoaktaevyqhrqqmrytdnxzbrscuqve124,male,62.3967167802175,3,0,33638,489.96125251404095,C50,Q
+125,0,3,ejslkcimzgkntzexaqbkqqissnhmfduwkscykqol125,male,37.78762223969553,1,4,350404,453.67999619995993,B42,C
+126,1,1,pzumitjzstcexwjjmjhbssdvhibvfjawqscextxc126,female,45.66178682259371,4,2,112050,238.95330633966105,E50,Q
+127,0,3,purhcnempocrxtqjffxtyzkykidqvmlgzeiywkev127,female,16.258475752925484,4,6,2683,205.55419273061517,,
+128,0,2,hnrdbqlboqobtaokzinkvqxmdnqvljmmomnkasth128,male,20.459803917656103,8,3,367655,268.2997557431288,E121,
+129,1,2,ntuxflbsuiazanovkupekqyleavzegfjqukqsjij129,female,,0,3,2668,218.2956011794836,B35,Q
+130,1,2,civhmzhnjdnedyrjzzdwqlxuaswnqcdbanvkguex130,male,44.27509167271314,3,6,358585,1.0652925269365383,A16,
+131,0,3,blfpcqjmklojfwdcygfxnncogenscqullwjefagg131,female,28.117943464073416,8,2,341826,245.04499048348504,F4,S
+132,0,3,vvwmzbvgosihwvoxkdtbpqvjgmqrmydeqokhyhme132,female,60.84100335482041,3,5,17764,444.37984501269347,G6,S
+133,1,3,mejbrdnbuzybrijyvsxitrtchtfunzqroxxebxnh133,female,32.74497885924482,3,5,2678,25.731560063952642,B58 B60,
+134,0,3,lobrrkjqllggfykjokzzholejexhnavnpadrpryi134,female,45.02688393283897,0,1,349249,389.133838675166,F G63,C
+135,0,2,ehtledvjcjrpadeupekeeyjotepyjvptfltrkjoq135,male,19.522170683019286,2,5,350035,207.77025715399978,D30,S
+136,0,3,sfneicfjbuixluphvngqyxfmumdvfgurxubtmide136,male,71.79120028224679,8,6,349253,372.47926067852444,D30,S
+137,0,3,nxhhveoikfhctzdxykwbtsbwhioqjtwjirhaftrh137,female,20.405651868585593,3,0,367228,462.2008659317675,E34,
+138,0,3,gizfdywkljevqnteqkgvjzucdwuyrbdyglkdyzrh138,male,57.81953733239597,3,3,367226,254.32361085661466,D9,C
+139,0,3,elaefjzfkowgbdicxeutnjubhcsesdjklfyelgwq139,male,64.48786937288982,3,2,342826,457.127316213464,E101,C
+140,0,1,ducmdgjhplvvvolbmkxfqpfmtsyuqpofexduwkxk140,female,49.20222124148569,0,1,PC 17756,510.9279192787411,C62 C64,S
+141,1,1,huhvbukudnahgzowwiueweaatqljdqrwprmclyya141,female,5.277679670567627,1,2,3101296,238.61222806433236,A34,
+142,0,2,qaidpqcfxyumxpsfuvcmquvelmpxzionlbjmgsjf142,male,26.86811743922475,0,4,343275,23.18974584840022,E31,Q
+143,0,1,kbvxvvpqebxwhorjimdvnvgeudbluqknisfiwtrp143,male,73.4358196962708,3,4,PC 17754,204.52981979898757,E36,C
+144,1,2,scgsglowqmarauksdwuamoqawrohutzypqvkvnlf144,male,28.990484930186632,1,4,C.A. 2673,122.05555219627556,A34,Q
+145,1,1,cbwgqveanzoazquhmqiftjnvjwifselefehyuckj145,male,6.402969654230141,5,5,382651,365.6770827673544,E63,Q
+146,0,1,hiozgqpkdwuktshhutwtbvcfecwmjrxhfoybjita146,female,68.21968787549,4,2,11813,298.9668690241134,B41,S
+147,0,3,ozijgmtwxkpeyvnyayeevzvtcqvfeplzgvokjyzw147,female,12.758565618690898,3,2,SC 1748,245.80692135110036,A19,Q
+148,0,3,djwcxcilncdjznjhlohpdwncysjalaugsjjkgmle148,male,20.268187656766834,0,6,392096,343.36823772176336,D45,Q
+149,1,2,ojavtmzrihjazfzamrefetrstmmbsfysaxgkpjqv149,male,25.087236690268448,1,4,WE/P 5735,494.5538834334464,B80,C
+150,1,2,yxwqgzgolmksvfwhuavmzurdplwjxmrwgphtxlps150,male,49.59469154391887,5,4,19988,206.46477877975065,D46,S
+151,0,3,urvnmlbapkhngendbojgfdosunuftnmnurvybewz151,female,51.07902966047072,4,1,PC 17593,310.6093751492998,D49,C
+152,0,2,mmnobgxgeddtdgmekggpyaiyvzwfmdtebfllpmxz152,female,19.671701402904606,2,0,223596,259.5960825120589,C7,
+153,0,3,vligvgjyhqvhninvgljbmtpsecxeypjgivsrimci153,male,35.90664012467943,0,5,35851,89.16815283170256,B18,S
+154,0,1,cqilkmsvtzeubfccmvlhrsqrpvumoubjiryzcdsf154,female,20.989140507661826,0,4,16966,16.44303621412111,E10,S
+155,1,2,mxybqcmkhtellaagrjuiqguxumzbjebtocqpowyq155,female,30.94943680245718,4,2,PC 17474,275.73732894930595,G6,Q
+156,1,2,loukizoglnoaihmbsmdocwvscjtldmjgqpvbuiry156,male,16.20289808520883,5,0,C.A. 29178,103.66248116377803,B39,Q
+157,1,3,goglxpmqhpxneqzzfrsnwwcfojisbdmknmgpqtui157,female,76.25198470548564,1,1,349249,123.5676518263811,B101,C
+158,1,1,prcyomiytnjgsjjodczixwemcqnelkpkeglvdmsr158,male,70.75360689972723,0,1,330923,487.8263188525839,C62 C64,Q
+159,1,3,gurnrasedwtdhuvhvsxspzwoayeqjdsexxwszinp159,male,43.57394445833873,2,5,113794,347.2297532743079,C91,Q
+160,0,1,sitdarnpnjmitenlziakyfanxkepsvfaryjsytqa160,male,53.50906160095169,8,6,374746,377.6928736286929,B77,Q
+161,0,1,gjmlzwmcbbmwcvkckbqhpkgydxdrmdixdwaxcnzu161,male,1.4174849230154594,5,3,345773,67.40257702171196,B94,C
+162,1,1,athhqwlosjmvpfwbepuxftbulngxiccoppkqokyp162,male,30.64763295461479,0,3,4136,152.4097058084866,C82,Q
+163,0,3,jugsgbylrxklsuuwivfocanqzmswpkqdipsnznym163,male,37.99096754008863,8,5,PC 17590,213.76163157458083,C125,Q
+164,0,2,lydgcijmikrjrqaffjfpvcgawjpqltancsjvhsvf164,female,48.86360672863229,5,0,STON/O 2. 3101292,40.624717534108214,B102,
+165,0,1,sahbjtshypwiavqcmjtxsubmmdppadtojekyusgu165,male,18.21259752666813,3,2,PC 17483,463.2172988785711,B71,C
+166,1,1,sdvjlkmxjqbxjsxvjdqbnjazimtwylfwkyrdltly166,female,41.84101356932141,4,3,111361,193.65522690290422,D20,S
+167,1,3,htuhqkpefvkastmagkktjqosbrtvymutgfriotlc167,male,14.621499590567112,4,1,3101276,328.2313562058187,A26,S
+168,0,3,vfpwywcsdlpseijyvbnvmnsvdwqepbtxwqppakqx168,male,2.4437199175192172,4,2,65303,389.41129396422986,B18,C
+169,1,3,qmjoavxkoabcwsamlhntabzwfrcygepssmnwaucc169,male,45.428243637979826,8,3,230434,109.15082668507587,D36,Q
+170,0,2,wuytapeekjmcvlmkicsjlrvgqysmflywmmjhfpqv170,male,29.69410654502666,1,3,349207,325.33943306646216,B41,C
+171,0,3,taomdrimmqwbmglvmvnmlnoqrbcwjfsoqqejzbyx171,male,7.732053812814168,5,6,113773,441.983377250739,D11,Q
+172,0,1,bmmiulqmbrjngoxjcruesegotsuucaiczlmaqvvi172,female,77.01946107332728,2,4,239854,288.4220113154504,A34,
+173,0,2,yilyptrepydmquogcwevssboapvuypqsatkywzjl173,male,6.629628270818172,3,4,112050,126.4304299528856,E10,C
+174,0,3,hbtqoxmvsjvseudevxhrtwsdeczekvbxhpfxtznx174,female,56.175484112621845,3,4,C 7075,25.57913760787141,E44,
+175,0,3,zuprgsjgqzknopllsrezfuyfvedcbtswjesmavuq175,female,,1,5,248698,157.67439439188945,B77,C
+176,0,1,sdampwijgvzhcmelnqtfonngkmnzwmxyeqhezwza176,male,63.05572444771703,8,5,29104,432.9223337866991,B42,Q
+177,1,1,qrgkgcreubdvsldhcloecqxsvytunmpxizunbtoa177,male,33.5886119702499,8,1,SC/PARIS 2146,449.6387159188868,F E69,S
+178,0,2,vfyuxrmnbctfhwevhknewuellixoltgiixowkruo178,male,40.39182634790873,8,3,382651,0.9888246205133248,B35,C
+179,1,2,pusenbinqrnskgnopfuphwjvhrbfakpvbvieefnv179,male,69.1806341104248,8,5,113043,66.23142688476474,B4,
+180,1,2,mxadoqtkjjvpuwqzqaanzdglyhyaraiywegzndgj180,male,5.354478892741063,4,2,226875,67.66715096442137,A32,
+181,1,3,mwmcohnefanozptwznwdoqorreuqccdnidajbkhd181,male,16.149501643174816,4,0,362316,410.7290861639746,B102,S
+182,1,3,dfdywfzennwkwihdmqxdkhkrxxxkujfsthkoatak182,male,29.674505509270208,0,1,349256,480.5056648162989,C49,S
+183,0,1,xqtqoqkicpafsvzynemjfjqwdxflltsxgimtwufx183,female,25.43946622321362,0,2,248747,482.0454246120678,B28,S
+184,0,3,bfbiawbsonffbygaouplbohwcniftchdnshobhxt184,male,21.74426156387266,4,3,SC/Paris 2123,129.91754624775248,C148,Q
+185,0,1,vvqygmhpfjmtpkrawvkfbvtfkxqgfxnuocguxoqu185,female,59.893738320082754,5,5,35273,272.77431112870767,B50,C
+186,1,3,vnqcdghbvrpkofvehvnqmknntxexrlrizqjqczea186,female,78.54268270409978,8,0,349218,139.77743028264646,C7,C
+187,0,2,nridnubrgmrcuxiyljsjjrbowzfidnswbobhgfbf187,male,50.639264768716686,5,4,350035,492.82793430834283,C68,C
+188,0,1,gbimbugphunltlzyubmffyzcuyuorxqactgyoeit188,female,19.183449394849497,1,3,65303,242.2976514840171,B102,
+189,1,3,dadhtmavurkcaraqcjfgssysagyaibdmmslybjyu189,female,29.816920579308462,4,3,2693,4.083000124280946,E17,S
+190,0,3,wnpenwueskzabtutmltizjzpbuuifpsjgtcnwwcx190,male,45.83796917535517,0,6,315153,392.7942393531716,E24,C
+191,0,2,zyprjjwuyhnnsptvwowfrvuwcnnpkcgpfqokinmf191,female,10.96766395894585,4,2,243880,144.86639158449734,C91,
+192,0,3,jtdifsexehnouyluizaclfutteknbrprexyexaxn192,female,36.23706487876789,1,6,236852,345.21985318974225,C23 C25 C27,
+193,0,1,cgclxpootdlmwjcwauxzmrsabpgsbavqrgymjogs193,female,52.91219966461257,0,4,SOTON/O.Q. 3101307,116.70654486850346,C93,
+194,1,2,buaydlucsymqrupabbchsxhbirwnikfcpfcqdzkg194,male,65.4145843271461,4,2,7267,193.236300589782,B69,C
+195,1,3,gkyzknkdgzjlbjrzqhilbaxtpossulykguprzlef195,male,17.288636105579933,0,3,347081,72.2536395280502,C87,
+196,1,3,ouhwiphwaorfwnnitonyhypongvcgmcfhbbwqkoo196,male,50.70421221709349,4,5,248723,85.64563171359009,C83,
+197,0,3,tzkouvvhxuafhlxpdtaniqthhikvenqitwpkkkze197,female,53.653640671815594,2,1,2620,46.44167088002875,E34,
+198,0,1,fgssypmoczbbvmblbdsxkbamubxywehtwqvbreuj198,male,23.7983096756261,4,2,113783,78.8983660179926,F4,
+199,0,2,hqzoipqjfvmqmyzpjzieeeolvryxutoxojlqpmal199,male,10.638674503801655,0,2,343120,139.03930646027376,B86,C
+200,1,3,hutifhcdiqqhhilawerurfzzznkhzfflndxojfvn200,female,6.0479230524042205,5,2,2693,495.73793417246213,A5,
+201,0,2,nkmhzhsvkjmnzphqmpejgmuvhwmedtyibpxomgkf201,male,41.81062069189882,8,4,373450,11.567897368167463,D,S
+202,0,1,vlebxiosmsdwuixolincdgzioarrbtrsuifzbcon202,male,54.9395800736321,2,4,31418,251.89971097737447,C82,S
+203,1,2,pzevzpnuonexouoauhmqdhmfbroitftqlevkiivh203,female,21.979123455550724,1,0,234360,115.59169874662358,D17,S
+204,0,3,jorifmrapzrldzxqgeulrbhwixwydwhdstfxxaac204,male,58.76087744222682,3,3,112058,76.52268422494583,B49,C
+205,0,1,mlkpoxtymxrjrdsdxxxzcsvcwdfcopamqihltcnl205,male,32.4381363704221,4,4,113792,278.2321740824985,B30,C
+206,1,3,ytmvfbpyimorxbrdbcpexoeefysttgrktywbgvac206,male,73.81405636289122,2,1,370370,54.27735289744122,D56,Q
+207,0,3,fjpfgdeixsbgphvjqkqlslvavrjrielrjbnwudjr207,male,25.325463928396502,1,6,345773,33.73409934505404,B38,
+208,0,2,ljqalwpyttzlvarajzjwjolielwemlntvmcxcejm208,female,36.858434870474674,1,1,349219,333.59612690084344,B57 B59 B63 B66,C
+209,1,1,muuovcxygqaeguitobrjmihmuymezaahclwruncp209,female,58.225213484936944,4,4,PC 17757,198.1113851677373,C65,
+210,0,1,gseqyvdqijxbcwischqybwtecztvdnjyfadcuyni210,male,42.14882982665368,0,4,W./C. 14263,205.42353663703094,C82,C
+211,1,2,kxftktwcbmdxxncmqbiytqjiiefftecctvatwfqe211,female,54.38083019901981,0,4,244358,48.311068527468706,C46,
+212,1,3,xesyjsvhacdikgduxkskkfgepsczvmqmplvbnrzf212,female,79.0270738889223,1,2,36864,184.26797976351722,C126,Q
+213,0,3,fzuzmnxbdqqefhcfkcbovwrgaapagpggiaogolcv213,male,55.66393923875559,5,1,2628,36.21748077651801,C126,Q
+214,1,3,aqduntxxfmzpxpnhvyulydxaehsocspsazwxplcr214,male,,2,2,112052,308.98674740073426,D7,C
+215,0,1,hgeqnzoqljeyugwxsaxtfggemribjhesayqlhsxr215,female,,8,0,A/4 45380,7.97324836926844,,
+216,1,1,shsezkanvcuokhqmmuahxyxsgmtesoufydgmkcwf216,female,34.219944445423266,4,2,2700,138.06029514774357,C91,Q
+217,0,3,robscjismrnvizspawmenonllhvyldpmogstipou217,male,13.59867976249274,4,6,315086,129.4202726445786,D26,Q
+218,0,1,riobvlvjmapivhkbjcnklonzaylhstbegfzsfyjr218,female,73.89976420446769,3,1,350034,70.89485060510461,B101,C
+219,1,2,igunpzdraolhjytdsoarysucyeegtgbncvqposhl219,male,35.47119346643689,0,6,CA. 2314,402.46916163623837,C23 C25 C27,Q
+220,1,3,sdxdanuthvsqknnbxywnlfvscylbgyafpcoituxh220,male,63.58668998296,0,2,364498,111.63355154204089,C99,
+221,0,2,weymjntlfxnsmnrokpbwnptdybohmuqfljfyaluf221,female,15.589599015875399,8,0,PC 17596,456.8744966301691,A6,
+222,1,2,hrcvhdmgcmtuafitixqfcrzncjiftdryjgndnrsr222,female,40.95805714902824,1,5,2650,360.61371250286334,E8,
+223,0,3,ylupesfvrvrcjwztnrrvfqzhrdpnvggucdracefp223,male,16.33369361027276,4,0,C.A. 17248,26.999912811156996,D17,Q
+224,0,3,jooymzapascrqylumvwfvjiuzxvydhvtylekyguk224,female,54.666060175714925,2,2,236852,34.70979851324063,A34,
+225,0,1,wzfhiarmizaugvzqjdkhhjtswunikmzzuwytnhsp225,female,20.64711539264923,0,2,SOTON/O2 3101272,432.96534241183844,B37,
+226,0,2,bfszgwzxbrmlatvmnarfjekcixcckznhquxjfbes226,female,39.11798078038056,5,1,370377,44.99448462728599,F33,C
+227,0,3,atsqalakhuscntxhoisjzmcokcctwljmkbazerig227,female,56.07356266973621,4,5,244310,42.83885891996961,B18,C
+228,0,2,hzmrklhrxjiszzbdyanjiodwctvsihrkinrzpxuc228,female,41.808829135583714,2,6,SOTON/O.Q. 3101311,398.66219745249293,B41,S
+229,1,2,dkhpnzyvchzxxzbvbbzlplkybnqoftnrflnjrfqr229,male,46.8888112058578,2,3,65303,71.82254777237026,C123,C
+230,0,2,kzyffaknhsmwwzacfbdoysndkuptqfuhwhquuzkx230,female,41.46806882900372,8,2,2620,10.55978859698646,D33,S
+231,0,1,ulmrvrbpqfqckyptoxerwodwqordprwfojxyqbte231,female,49.01761463035543,8,3,244270,308.1836527764123,B96 B98,Q
+232,1,3,dkcyexmhmgizzwfttiwukxvxrlwmmirptzrjoula232,male,55.00123276623462,2,3,349204,302.3358173075546,D36,Q
+233,1,3,bobffjtjqszkawxqtbmdvqkqftjowaqqhmrkbtan233,male,64.09338075001831,1,0,112059,414.74312743974554,C30,C
+234,0,3,ihcpxytxxeehisksxzcztjrlqvzswgnaalyvvrfw234,male,59.39964828250451,3,2,24160,61.16336742047212,E77,C
+235,1,2,ihecxjmfdstbvqjpmbkhtuqggqqkbgyzrdrlufhr235,male,42.312288641925115,8,0,336439,60.39360553885399,E12,Q
+236,0,1,gxrhanmmveyneejqbqlwqhlknhlayayepmgsdkiz236,male,,0,5,312992,54.393110622118485,C148,Q
+237,0,1,oleqghrrpsttazxiehbrjvcwuaadcdprywgqirzc237,female,48.55708389602483,0,3,345783,60.21877375639678,A5,Q
+238,0,3,ciliqyhzxulgqrzxcebqvxroejmnmocatqybqcgu238,male,8.851118597348504,1,6,2659,132.61863892299286,B80,Q
+239,0,2,hgcsjqjzdhttdmbyakddzwzzlqwicuyafgloiicz239,male,66.6674271256618,2,2,350029,15.780093637816371,C125,
+240,1,2,iytdxepvxlfzmeuzepchqcgclnzgpzaglvgpzxts240,female,3.896268565299462,5,3,PC 17582,196.0538950884353,B41,
+241,1,3,dasammdiyldnzibbugyypksuwjjhbfjfppuuotli241,male,65.19805133569763,1,6,14312,179.66479637602998,C49,
+242,1,3,nslgstwjtbucymjdqonquvovttbqicpquqvlfupn242,male,44.10351192817135,0,3,349204,191.00851541297126,D20,Q
+243,0,1,wwhkxybwgedfebwunievifrlfxpdvbuzxexczmuu243,male,,0,2,17465,14.192867712785706,D6,C
+244,1,1,wlxbxvbgxyciigandhqjnuqpfytlqkeuyxnevltv244,male,60.503618961784504,8,6,4133,509.0416602304445,E121,C
+245,1,1,kkzcfniwcenaldkmwbpdrbeijbpugldeblfxtfgc245,female,79.4188197380878,2,0,315151,140.78886621736868,B39,
+246,0,1,zbbynmxzlttarlqbjtzdcgtjapphgtsgbvicriav246,male,1.9984540895996687,0,5,349246,27.677315398955674,D30,S
+247,0,3,sadagoyduwuqoshuxdmljvcrgyrgntutzgebpyjx247,female,,1,4,234818,1.3249826799078745,D6,
+248,1,2,qdrnfbkabscndtsksizemrvtwgjkdzjuviszrfoe248,female,24.61767341332081,3,4,19950,201.39940283906748,B28,S
+249,1,2,rfxxwrthbpwjitmztvljoszwmshbuccwptvefhab249,male,5.492086382965244,3,2,347080,173.9544482850514,D20,C
+250,1,2,miejvslbdxvknqyxmseuzxneqwpktsuvjymhhzwh250,female,53.94940019739049,4,2,3101264,201.305617090428,C49,Q
+251,0,1,cwtvuqpccfmxmdhnmdkvdzuskpmjmlmwmhtdgkgj251,female,51.32072695258772,0,0,SOTON/O.Q. 3101305,314.11524880446126,A7,C
+252,0,3,glmsteaapzpepntsbtvzaqpepgzpuivddenuclmf252,male,35.679351056572564,0,6,A/5 21171,93.44877847290378,B5,
+253,0,3,iwlixmurhxdfxqnhjktovekuexqwnmpdcqtkmcnw253,female,24.824880385171948,0,5,8471,2.4519575298235354,D10 D12,C
+254,1,1,mjqdazmcavxbavwtckbzhlnvwwhbzhggizdinosh254,female,78.0935239375601,2,6,PP 4348,354.18785705328753,B4,
+255,1,3,stgoxpecqlrpvjfbnfreslywhbtdgxrqlksbcggm255,male,38.8204665045978,1,2,11668,469.64226244144743,C104,
+256,0,1,tnunivzusxeymwjfscplrntqsutyyfroqvxmbdiq256,female,,2,1,349236,75.70041099890277,E58,
+257,0,1,ioofqjwbvhiwzzcjdyozbgregqlgcldvnmrsmxif257,male,33.63292394509182,8,0,350025,88.92453263534071,T,Q
+258,0,3,xkcniplhwyatbvoqqkvkhdgmvzfmzvyxcvnmvebg258,female,51.63714620229243,2,3,SOTON/OQ 392089,487.5598173361069,D37,S
+259,0,1,oyuagdqsoyyygbblygyahkckrbcccokmzuwiigjf259,male,33.3597926547459,8,5,26707,509.9995335263204,B28,S
+260,0,1,ytpupzostnssyazxizukidehlevqlgusydrqkypf260,female,52.22090724930393,0,0,250644,246.57205926880215,C91,
+261,1,3,zhamzwpeppvpkslyonxjzrmuksrkivenqhdqfynb261,female,76.18279916595387,1,2,11813,135.43630627987147,D48,Q
+262,1,2,laolyuomqatqleesdsbbmuujlahhtvjzvwjaojnj262,male,54.856686148272644,0,2,111427,77.79216547210031,D7,
+263,1,3,khzrmpaxyouywcwcssyltxlydhjkbusnfxymizmf263,male,34.47369747393015,1,0,SC/PARIS 2149,188.96459201439419,E25,S
+264,0,1,nurgtfndavryxnfcnbjtqnqbxtnwxgavnliejthf264,male,32.03913366304241,0,2,36947,208.9498922547877,E8,C
+265,0,2,vvhsdjacebgjnbygcuqooumuqunofvjmewwgpzgq265,male,55.88104798414525,4,1,A/5. 3337,244.59314066437932,B42,Q
+266,1,1,jyvefebpvpdjiefphdmqtcwjpejgaczlowtyyxjr266,male,79.6412978348949,2,0,2663,259.9272397894451,C52,C
+267,1,2,nllpesfgmelkplycbtsnivrvzgbklxqpvtskjfnw267,female,72.20913603269805,8,0,350026,286.25405968877305,A19,S
+268,0,3,tagctkxqbjrxxfffhjpcxtcaedmaxzeqbyhbengi268,female,55.12780746227225,2,3,113787,279.75401634637853,E63,Q
+269,1,2,fdrvsntuomrmjtknwnuxccrgazmthpdlwynjfxib269,male,78.81157144920995,4,4,347077,349.411589259343,F38,C
+270,1,1,hgzarvmcmemadevzbihiebfgviowcmpamplmrrab270,female,78.62868485954075,2,0,STON/O 2. 3101293,339.2280570314169,A14,
+271,0,1,ojbvbkkfbtlejpbdaqirgusaxnrrijjssghknggf271,female,35.08647109936213,8,6,PC 17600,99.36359141697044,C2,
+272,0,2,tslnrzqfofqydkliqvgexrwzbsihjhsniquedijp272,male,39.82288368931432,5,6,28664,502.7157480667516,D35,Q
+273,0,3,odbmoscdfxsimaxozpidxllfcurehhblxluxapud273,female,46.73612183397724,0,3,SOTON/OQ 392089,510.93564767118784,B58 B60,S
+274,1,3,admxbghtrzctazmplefwsudacorjdfbnbmyxbihe274,male,57.60797561736661,3,1,248733,447.8504387472989,E12,Q
+275,1,1,lolrjecmgntoohntwilggcxqycxkkvfjswnkmqbc275,female,74.18241863046892,3,2,SOTON/O.Q. 392078,458.2246961975651,E17,S
+276,0,1,ictatlibojtmgukbwamchhitdrasqsauknudftts276,female,25.121011688585796,3,1,SOTON/O.Q. 3101305,247.92746865321325,A24,C
+277,0,3,qfscvhckzcigzlnorltnhcdzgfnsatlvsjwnmfwa277,female,42.546172383181975,2,1,C.A. 17248,26.74790204632641,A19,C
+278,1,2,cfiptvqlfqitlynmoppzugjlfqiyibmzdomjtsrz278,female,20.350401489473285,0,1,364499,83.0047717269665,E25,C
+279,1,1,yywvpsunloisenwzqozkbiwbnhnvjdewajydigrb279,male,24.89492120880481,3,6,PC 17597,160.91175071392027,E17,
+280,1,3,mylhyezvvjzarjritnjlmwpiivcpolrroahhfrim280,female,77.34763197597084,1,0,26707,132.43752556930164,D26,
+281,1,2,qkcmspfxbheoiicyhkccxgicjcqrtrnqemkdnijv281,female,67.2259105493657,2,6,PC 17475,185.41672649319707,E50,C
+282,0,3,kcxsugufaziggornjcqobygsynhgzmbfynppsyan282,male,51.026909203207964,4,4,358585,492.50308842152225,D15,S
+283,1,1,sgwsoqykqmpdwjjxitvzocyfgljhlemxgwqbsfdr283,female,25.639920504736157,1,1,111369,509.21279751765513,C62 C64,C
+284,1,1,kxdvjzmsshmaiqqxsxnrifqsibdlqllcmjflacgq284,male,22.78412113299156,0,2,29105,88.70720842884326,B101,C
+285,1,1,hjjldhvdbptuuwimnczvlyfhqztdcftnsnuvasad285,male,52.31094653608521,8,4,19988,22.453130266629262,F E69,C
+286,1,1,zyqdrddivakyprxdyzruvorlwbznwfidkkjqxpzp286,male,,4,1,STON/O2. 3101279,362.1654572616805,B35,S
+287,0,1,hulpjmkwllozlnzteccvmuostjrvztzvxgsnicae287,female,52.79900111124312,0,4,347068,116.93705181412508,C93,
+288,0,2,fhkpspckkcqzccldlaihqebjgzdcmaddytzsdjhg288,female,52.07503608502859,5,2,347087,487.05773423851025,E40,S
+289,0,3,xykgugvrdylumtxgbiyxvtqhkzdjfzfvoudgtaop289,male,21.467043266617118,0,6,364846,203.1462488530584,E58,C
+290,1,3,ovemkantryavatgvhxoqusqiwhcwphbcizptesgd290,male,5.969877300310409,5,6,3101298,358.774842915485,A7,S
+291,1,1,pqkyhwqnqewefhxuzceenmbwwoifemsobcpzcvir291,male,26.476419016062035,3,4,19877,496.70079368282546,B4,Q
+292,0,2,yellaxtavbwlsagssntdbhxmhwwqiffvdtufqzvd292,female,13.524466458798743,8,4,C.A. 37671,71.76671464732277,C104,
+293,1,1,imfcsuyorueoiitptswszfoyfsjpdnkldosajsnb293,female,14.259219318551914,3,6,237565,128.0792659667397,G6,C
+294,0,2,ezvvetnyrpuaaicfejoecqexfzyrbwxmizewkrgo294,male,53.10079050679809,4,5,348123,26.116230483576107,A6,S
+295,0,1,ptvncvgkayhcqfcnudfbpfnfspbxuckbspuypate295,female,28.465012065545128,8,0,248698,21.110152834234107,C70,
+296,0,1,icbdmhqhvkrfbkpscusvuxfyruqmllsgctjamlsd296,female,56.840576072336354,3,0,11774,243.61478781090855,D6,S
+297,0,3,louelexzznbgvudiylesclpojiduzvajsegkkash297,female,78.10221687193469,1,3,PC 17572,52.21100820185864,C82,Q
+298,0,1,dvtnvuikkhcammkqgzbqfscnsdmvjxbihjtqtzoe298,female,36.51296341581141,1,5,STON/O 2. 3101288,327.3045647183044,B20,C
+299,0,2,rlogjouwzezrtplnqaxbixsnnberezuyghidnvgx299,female,9.982210033705027,4,1,SOTON/OQ 392089,412.7299036755291,F G73,C
+300,0,1,itavebxrhuqizxpdzeoetadhvhwysbjlsgexxgsc300,female,9.685183905151623,3,5,S.C./A.4. 23567,374.29424405955297,D7,S
+301,0,3,wcetjeakjntpjophizfheemqwmbirkaxsifposra301,male,10.02817728209737,5,1,A/5 3536,173.63669676580886,C85,Q
+302,1,3,dnzlhbfssqegagotepymimhoiddemhnpwtdxdtpg302,female,0.8155139458517917,4,2,28403,299.0360750308912,B41,
+303,0,2,nlaarfrxfkrzzjcacymyjxkyxtaozyrovspdfkdb303,male,8.01454840894479,4,5,113807,35.34749544388295,B42,S
+304,1,3,crazvyefbvjbqsxrqfoanvkkzbhgpfazxccpgbjj304,male,77.9070645068753,1,4,330923,128.75964113196378,E58,Q
+305,1,1,avnvracmwahuavmctvfitrmeqsyotpxnihoqkfxx305,female,55.49273551552551,0,1,248733,11.175538480907319,A20,
+306,0,3,ozpbwjqoxmcqjihbpjllyrmehsftjwzognjylqpv306,male,71.94741701198559,4,6,17466,23.40561819355604,B19,
+307,0,2,lnwvyltpyuwcklrsdjtjsgxwebrxzsufymmpoitb307,female,33.61938969116426,0,5,113767,444.00813807457195,T,C
+308,1,2,omtpcqteodhnahhzdchkwoidyagfqjvbhoqwploj308,male,54.05328525970576,0,0,4579,83.20120461083997,C87,Q
+309,0,2,yqkycseltjzbkshoarmygifbaksjkswoqlthmawx309,female,15.140689663488313,8,5,111361,490.2434780413855,B5,
+310,0,2,ltfkxpivgyifndfuvnfacunwajspqljpvvwlozey310,female,49.86518405238169,5,0,A/5 2466,38.68732160343613,C90,
+311,0,2,ivxifkpbntiwrkdhucpjsexrtdfjdwgqilxezdmb311,male,49.369272499436825,5,0,19972,500.37523469480885,B41,Q
+312,0,3,qaeboyrhnsebdqcqyginwjjnoqgklwcmfpywsadl312,female,67.00757419405888,3,4,113806,437.35105737960083,D19,S
+313,1,3,ctbhsmfqqyvuebpkforpoptvwioyrqymbteuvvzf313,female,31.831816717515796,0,6,11755,215.3770089467508,B69,C
+314,1,2,hamfwozxmxhhiferpvubupsfibwqpjbioudaybxr314,female,23.97444191199338,3,4,36963,170.57184714184038,C110,S
+315,1,3,flvdgxsgrocdnxmjwwabdcdammqcdbpvczroqbsh315,male,70.55680660424453,0,2,250648,357.7607787346673,B78,
+316,1,3,wmukabmntoorvnoctpsxbkifzpmljxbafkljopqc316,male,57.620398387041284,3,4,334912,62.28747588287155,A23,C
+317,1,2,tmqrgwlbbhrqmsmwoomftnwhdmwluatsvshtkkgb317,male,56.02477631496771,0,5,349240,190.48490176613515,D17,S
+318,0,1,qjrrqndgrixhcjwlethtxdtvbfltsnvpbdlrnqcg318,male,42.75209762113438,1,6,PC 17569,217.00046456294226,C126,Q
+319,1,2,qomfzbsalwthecrslbkipbtdbnhskolmkyuzuaab319,male,76.28295618088639,4,4,54636,133.8468614266656,D26,C
+320,0,2,odcloyezygkvteywogeninlrwnipicyopktolqyo320,female,52.48390021552893,0,0,2647,35.73080266315708,C46,
+321,0,2,kznejqqvkmgtmyiyxlkmugswtqbyvfydxglgsnej321,female,11.3617310261249,2,2,17465,144.61169804278393,B5,S
+322,0,3,sddmripiucuspaptmvvshswjarfmqbhdzqcbeqmc322,male,68.3063403468964,4,4,113776,291.9523113463087,C124,S
+323,0,3,atkxjsedenhpgubuganvfnhwnuiuwqymmnleyhek323,female,24.325239150213054,0,1,2683,40.50924860471181,B39,
+324,0,3,nfeixsdbcemydtqzljvxrppwvanjytdebowlzwut324,male,33.81896184013942,1,6,2627,98.25404025725419,B28,C
+325,1,2,rsjdcsjeujlvxpoprwfhbfzkwufhwacvnnoijoec325,male,78.08611583650259,2,4,345777,128.0302364169871,E44,C
+326,1,3,hrguhqukzjnuzwqzfcnsefhmgdepttxowfsncrny326,female,6.18375771238869,5,5,370373,125.13742365410691,E50,S
+327,0,2,ibacfdguaeskqetfrxtwlrcmybgnbgghjrxgobih327,female,70.00721422281565,8,2,373450,342.5380934214544,B69,Q
+328,0,3,ezazbsoajjqnfqlkfarevdbkyayovtggafwtrfwk328,male,46.51627214523124,0,4,2664,307.9540922671565,E49,C
+329,1,2,xczjrpxqbuxkodktvvqrnyrclpevjnfwkyjnrtur329,female,70.76594491557368,8,1,315082,169.3659047589755,C93,
+330,1,1,jhflhnzmfswvqmzmymbvpufblllekifqlnuyrlci330,female,18.019268494486035,2,5,234604,37.77276923483589,B18,S
+331,1,2,vdwfxedejsqsatsvgvjlqdtxnvenyxxwnwsydcat331,male,77.48659086475467,4,4,A/S 2816,262.236139370108,B19,Q
+332,0,2,xusnetuzchdxvczbjztpkqlzlnukhslmsgpimsta332,male,52.101078592177075,5,3,113781,308.4299683425605,,Q
+333,0,1,ukgpidumtpwnmdbxeajvsqzgloemniinsmezeyff333,female,37.26918689454065,2,1,374746,213.16917116383465,B42,
+334,0,3,mbgogknfhlbvpyhppjxaqvwclpgjmxpcdjprxnqm334,male,75.13408151478936,2,1,A/5. 10482,379.0742018624014,C123,Q
+335,0,1,mymqazhchieycgswnptwgyhkotrqawvmnsqjebpg335,female,77.7368284570109,2,1,A/5 3902,255.24545597518207,E31,
+336,1,3,lgkhwgwuscmctynzuuxuyjbplhzwvpzafvkfikwc336,female,13.783552600015957,4,1,2625,105.19809518614457,E38,C
+337,0,2,iyezjlrweubjdlgpqoqzllbrpfrfcacrgizxgbxm337,female,12.611090778847496,8,5,312991,329.87953488632303,C106,C
+338,0,3,phkulmfljfqarelzxktqoocaiormjzuvokralxas338,male,27.73018061937783,0,1,350029,231.79611427602543,E25,Q
+339,0,3,ddwbwycvxndhhofwiechtwrdeezmbvejedwbwiii339,female,54.94027451190275,4,4,2649,43.89318477519536,D11,S
+340,0,1,yspbrwvjgmuvoylfqsjnmwedjegiskvoqoejupct340,female,59.71907960530535,4,6,31027,461.78269131953914,B71,S
+341,1,3,wwavefzwpwzldmtzxuljqwwuqcozxcualabthzuq341,male,34.04896332310105,0,0,237798,395.0327023441877,D36,Q
+342,1,3,lxiqezealjvfvgwnneihimufrsgjsylrsofbujgw342,male,66.77746852696326,0,0,345779,201.60745346472171,B4,Q
+343,0,1,eakfugqledovarpzzdlcekvppkurtgntpriyhgzm343,male,8.851144030197792,3,5,113509,368.70047913939396,B77,Q
+344,1,3,chsijwlltogigvzkjtsrrrumfwjzldzydxcbxsxd344,male,33.83545738077561,0,6,C.A. 18723,356.69804486050197,A23,C
+345,0,1,aulfgbzjdibnsprlyrusirnggqplslfsfdqfxtyk345,male,48.99257602222658,1,6,113804,325.6670548044888,C85,Q
+346,0,2,ijhbzlqwvpsijzaiasmaywsrlyqxczzihtetzdvn346,female,20.482521581576947,8,4,349205,66.70998246168425,E36,S
+347,1,3,szhtsnctnumjpetzkblrnhbbeoodmsifzgultsrf347,female,20.107938216648897,0,1,2687,311.531479927977,C101,S
+348,1,1,zpnugsitsreusuqmvsqssjlgelwxcjziinzkhzzg348,male,60.96404369212366,8,1,349256,264.8868966219008,B69,Q
+349,0,3,egrnlsksjlprmxbjiupmnlwpvgihohsjcwsiuawk349,female,1.0023445149460546,3,2,SOTON/OQ 392082,36.14728844840017,D33,Q
+350,0,3,gueqnxsbyoetfyjdjoupfdmnuarvxkpcpudryzdg350,male,17.123722803317055,0,1,364851,220.0506392938555,F33,Q
+351,1,3,eunvcdrnryetxffokepggedonpbzxwprvpxoqfas351,female,45.69318918600659,0,5,113051,25.514971689474937,D45,C
+352,1,3,evvobdpzwddtwaxvizsvtuclofktgfahjcxurvzw352,female,50.34209083275184,4,3,34218,237.8157794062551,B57 B59 B63 B66,S
+353,0,3,mjnlwvzeyaziwpaqloohkqgonqsaacqsfpqfgtlb353,female,68.66515945215363,4,4,348121,294.68055865046944,C47,
+354,0,1,tbzmugmfgtsydeinoetbfhwgqwskrdvcfejemtjn354,male,16.290997068274326,3,1,349218,254.45977098785517,C92,S
+355,1,2,uwgeozpjhaecdrkisfolvfbqxozsdmefhbbagkix355,female,36.16331406875968,0,5,370372,8.848457946572738,A6,C
+356,1,2,fbudghwnviigjjvjdqfdidrvgivenyyosftlpizp356,female,72.63249162598531,2,5,2659,67.33554938897126,C65,S
+357,1,1,veibgrdpezhsvzdpsxepaxnkqeoegrvqddarvngj357,male,53.76210348812528,0,1,17463,301.4066379156982,C54,Q
+358,1,1,uafsrdslytckslslakpqlmrkbfhiaipbgbppxnlz358,female,70.7684394132947,1,0,315096,169.84403920006142,C124,
+359,0,2,jlugtwwiwlveoejnpkxktyzkeafxgwihnovkfivz359,male,71.55519554336345,8,6,SOTON/OQ 3101317,429.1635868729486,D36,S
+360,0,2,axnzkjduibaueewryklkmhcvjaxcfoqykuvahcfo360,female,66.05522017522162,4,1,236853,158.71172191281772,A36,C
+361,1,3,lrezicatftmqzsxgkpmxjkukemxalwbitualxrtf361,female,59.77492871091131,4,6,PP 4348,126.9894425616569,B57 B59 B63 B66,C
+362,0,2,chnnypxivaqzdefcoikocqjsnskmjdziswekqlxw362,female,33.53506959291272,0,4,349225,81.38087559323529,A6,
+363,0,1,ochaimuyomwubpdzvvjtlmhnpedhklnliahaweep363,female,58.1092963072417,3,1,345778,91.80122549882253,C62 C64,C
+364,0,1,vmoaprvnivydwyzqfrdaxtaswqftmglwhsgkeoxq364,male,26.278114789030873,0,2,PC 17604,238.13170365345061,C49,C
+365,1,3,kvvdcbqznhecjmlseiqbemetrfgprmiuqrfojxml365,female,22.98120117408356,3,6,345779,169.9504320496859,C7,
+366,0,1,lpavqcjmihxckzvigsqlnywdlnihcirycgubilkp366,female,56.92972341771303,5,3,4138,391.7041183115459,E8,S
+367,0,1,noviflcammuuocwbsjluyimbkrmggkfeshuyaydf367,male,46.61527725884837,4,0,323592,344.0601397063054,A19,S
+368,1,3,nlfrytqzzerbyeefuutsosypibnrufgkrekiroyv368,male,17.20649815245431,0,0,PP 4348,350.4901066172108,A16,C
+369,0,3,xquooamlertotjikuhopqwgtzgczjrtupnyqdglp369,male,17.68973663358806,0,0,371060,339.90656888581765,D45,Q
+370,0,1,ppifsrwbnfcxauxohfuthjctgzzyfpwmtroueiqp370,female,40.06105195729038,1,2,374910,44.26206342769564,B78,
+371,1,2,uikcwnmcphoelyzztqfkjebootqqejaqywgpdqqv371,male,47.766152983325384,5,5,28213,393.13267802960536,A19,Q
+372,0,1,luwrwseyzwiqmhwgvcyjxduorworjubvdbclyfkt372,male,75.2972930376719,3,6,A.5. 18509,362.0158113782082,C70,C
+373,1,3,ngpoztvctnkwlzwqlnfudraogzzhhhntyrxwiuoi373,female,32.393128214004655,3,2,364512,41.32264725191002,B80,
+374,0,2,zpludlnafsjambddqmodjabhydqwqcgiaxyhfmlo374,male,28.863351825316023,4,6,250643,55.47905391594779,C32,Q
+375,1,3,njqokklsntatqfypileljazrahwphpfeiyosjmjs375,female,45.21113312813411,8,2,2223,241.57800993124243,B69,
+376,1,3,jezbxolyufkyznvspsfuxbohieyvaxfsasbbzsbv376,male,79.14119877482464,8,6,C 7076,138.2878313655095,A36,
+377,0,3,fwjcticomsefdfcbadswgxblruwzlpxikauczonp377,male,51.51964430844085,4,1,SOTON/OQ 392082,309.3486962325705,D49,Q
+378,0,2,odolpurfhqnbrqfkkwkpppnfzmuqbwqrqkdvrtae378,female,10.697550809199717,3,3,345778,146.2897071090167,C126,S
+379,1,2,hymdrwczrqiqydoxaplnejhvynysbormfgjlfiim379,female,58.98344584242001,0,0,350036,376.07072962267875,C7,
+380,0,2,ezsaizzhgdmlgkvgawxecmhzobnpoxpuiiqvwcfy380,male,3.631273356920827,5,2,PC 17485,148.0066546346563,C118,C
+381,1,1,dwcollauntwgvshxshdmuphyonjrczghjfdmglve381,female,56.39004298239935,3,3,345778,193.2739656768178,A19,S
+382,0,1,blvzmximlkbkvsdczgiwdekprfewtosgzwtydfkg382,female,28.60979504145879,0,6,SOTON/O2 3101272,475.285666928575,C85,C
+383,0,1,ekduyqptbekzyaytyqzststlcnncmqbqpedspwub383,male,67.54133445442342,0,2,349254,29.951610449680118,C118,C
+384,1,3,ccdfvnmklbtvkyrhdslymnnbziakrhvmpcmxlhto384,female,8.534835585095177,8,1,C.A. 34651,56.547410669923714,E10,
+385,1,2,ogybeqccyiuithnwiojnwvvopsqdcgbwqtuluiai385,female,25.18963571097878,0,1,S.C./PARIS 2079,492.55968394296605,C118,
+386,1,2,xezxgekduxwvzbpeamwnlbvapflaxeqycieyrudh386,female,24.455674834024045,1,1,C.A. 33111,372.0868568313863,B35,C
+387,0,3,xzauczomdonrjwlzcxkxpuixhcgntruobqkazedt387,male,,4,0,220845,72.21235456498721,E121,Q
+388,0,3,oukyehrtqtigthgmgqpbzavmjsaozdrkmkfomqpw388,female,24.354819571939547,0,2,364498,444.62423318178196,B50,S
+389,1,3,jieiykbfsuyuzbhqauisewgwsuwvkkupmqtkqhoe389,male,15.715095694370092,4,6,323592,125.0562785070866,F33,Q
+390,0,3,omdqhjkzfgdqqhnaxhdpdybfewzfvopfsctchhqu390,male,13.67243498728807,4,6,113787,454.33041623092925,B28,Q
+391,1,2,hsnjwgoebmkrnprodcunhipuushylcapakwsdksf391,male,68.70238574978536,8,5,33638,300.1338995860556,B4,S
+392,1,3,jjanxygpvflegwgkepiqsipxbngphdmybpkcinvq392,male,44.78115275185957,0,0,2625,8.585923443447445,,C
+393,0,3,mfqhqoebvnbaakdotcdwqjfbnvvmtphnppkixyrl393,male,34.86255689018417,0,4,PC 17475,438.51479393608935,F4,S
+394,0,1,dmukzrddxstyespgfpogxvmlqittyrtljfsdzjer394,female,40.08505252306528,8,3,113050,485.759563847643,E68,S
+395,0,3,kvrizzjebgmcasbwowrrorcdphvlhuriuvqrljhf395,female,54.156393776878,2,5,SOTON/OQ 392082,47.50855916303724,C78,C
+396,1,2,hsifzaqnlquuxrsjcdbfdttmsdtvvkredsrkwvep396,female,75.62743900752146,8,3,3101264,394.72065053090614,F G73,Q
+397,0,2,fswglpkwvilzppapviunpjjzmqsnzopuemoxjijn397,female,2.4191633952317093,1,1,3101265,150.19489424145684,D33,
+398,0,1,kigetoiyhivrkhjivbzyjwfbhqlmjmcwcsgymutr398,male,42.493438587938876,0,1,111427,407.28165925853455,E33,Q
+399,0,3,wldpncuczatgossycjgwiomxgxkepbhdfarxkzja399,male,42.91003542866486,8,0,236171,8.772961873984245,C54,C
+400,0,1,fwfammmiaxnvyjchwtpndbmctzzjicpwbefyffth400,female,67.28753264635887,5,6,324669,448.32804990881016,D50,S
+401,0,1,kyvdnfalvubwhbgerjnzfrowhtrghfyjdowyvsto401,male,67.09947075501805,0,5,SC/PARIS 2149,443.97910117141737,F2,Q
+402,1,3,knwsmtbyqdpddtjvyopytriquvoituddtnqflokw402,male,40.172329067005435,1,3,11813,69.04039465363263,B5,C
+403,0,3,zdzobjkgjetducisicthsrqxjwwbnrhoeeukgrlo403,male,55.11917528342838,4,6,SOTON/O.Q. 3101310,381.9969375000202,F G63,Q
+404,1,1,xjyvzhpmyfffysnvavsgftrnogzodcrdhlijvygk404,male,79.62510149822106,2,3,PC 17595,281.38513465551256,D20,Q
+405,1,1,rbspdmfdvfrltnuhbdgfowauvepgvooxnbkutpyn405,female,41.03009112678895,1,6,345774,198.3682069188102,D15,S
+406,0,3,avltlzuhjkwevqdqazepyovzkbzeixgwdrgdjllr406,male,,0,2,28206,7.8192285498834675,D6,
+407,1,1,xzichsrrdhpxlojntrimsvrbzexeeyisxaybhrpe407,female,42.340421474923424,1,5,248733,381.18556114580144,D21,C
+408,1,3,ceeanwwqeexnxhclcwhrcfogybqdnddowlhcamix408,female,6.78088615513286,1,4,35281,255.97554102263538,C148,
+409,0,3,bpvvxydzsvzcoxvvnuarepgqxmuoqbdduchhmwqc409,male,39.51644683968105,1,0,113050,111.3426136124996,E40,Q
+410,1,1,ocuvfhzactuygqszqlfehfdmzvrzclxbuwmpxdfy410,female,22.233727767439284,1,2,111426,75.53557202802205,D35,S
+411,1,3,jqodhgnfsedpdnxwhfabkdaosboiuahnbdqvoduy411,female,79.16854900239049,1,5,341826,269.26860803337144,F38,S
+412,0,3,bprtngdngchsbqmiangfuymojtakufpswlblzhkn412,female,17.882115613907306,3,5,113792,306.4916052215579,D9,S
+413,1,3,uzppzoowgrhnrqotgxdnzrnuiehloqlgpryzqwbb413,male,38.56423966475859,1,0,250653,76.74322513613531,C32,C
+414,0,2,qzmzmevleedhrgvubskjeknukwgarefipwrsqnyb414,male,31.66038878116717,0,2,244367,20.824698680117095,D26,C
+415,0,2,qjpivihfvefudgywmotyzndaxcxivhgzgannkvxz415,female,59.30147863552345,5,0,250655,17.507237833077042,C128,
+416,1,1,mnvndnrfrmnhenrtehtcmewrxidizmnwkxpzdsad416,male,7.013141531954927,1,4,17464,490.658045492068,B42,Q
+417,0,3,vjpesgnslizrtqurnasfujuhhhogipgfgxwslihd417,male,,0,4,111361,0.12596338925183206,A10,C
+418,0,2,sqplseyubhtlgafnhutevryglvtbmhpotienijsu418,male,68.06395773147364,8,4,13568,476.350135221036,A7,Q
+419,1,3,yshhlfhymkbqscrgzlvdztngdavlefmwcrwoxwxw419,female,40.93405434137893,2,1,358585,376.67620899041043,E8,
+420,0,2,jxofqgntjlvfdpkggdgvnnxribibvqiqmhsmiake420,female,10.394787133880637,2,0,STON/O 2. 3101289,433.82853291280634,C85,S
+421,1,3,mbkekrwqyqmskzdhgbrjkdyhhdrraedlpycaiioh421,male,77.03349394656537,1,6,W./C. 14263,269.41138123836873,D,Q
+422,0,3,ubcgdajstveoswkwogmwdoofnfqynydjskjsaibc422,male,20.5761053353822,3,0,330931,17.850743124270988,C7,Q
+423,1,3,fxndvuvnuivtjhbjwykgdpjqcuzaktelaqozwouz423,female,47.6104761366213,8,1,226593,16.582968348948057,D45,
+424,1,1,dwvrrwflftgerummdpigycrgxdoxgepoycgkpgqu424,male,47.94098619780508,4,5,364846,5.24932818464864,D47,S
+425,1,2,yiqytjywllkamltihihbletpwvkewslxxdusstph425,female,33.456860610155005,0,4,347081,16.504687554697213,A6,S
+426,0,1,erzjzglptprwibojvdfzzonvsfjfhkwfebzikmwu426,male,33.875723133024366,4,2,W./C. 14263,178.84698214105893,A7,C
+427,1,1,fppqevoprjuaqgwazpgenphehybgwzdgjjaanmfk427,male,3.643139347058985,0,5,113788,105.31400499411835,C47,Q
+428,0,1,wifrtysuowwngikqfqikbgmaezfzclfzshjctnwt428,female,56.3737276015486,4,5,A/5. 2151,94.48742044767715,C47,
+429,1,2,dtszpkupvrtudrknhmnuvsfungzendvggjgiuqta429,female,46.739478768135996,3,5,2667,15.736322470045907,C111,C
+430,0,1,nhlfwogmnnppwdwsjlukrozftyvjcmhkyfzhixnc430,female,76.52760951465956,2,0,250644,60.86098749781874,C101,
+431,0,2,mcssryhdmkzubhwpemhhtskmekxnyxmkvkizsgum431,male,29.415324504841003,4,4,368323,199.63798100265916,E34,Q
+432,1,2,ehqblacxkyipzjixdkfnovadgmyvpeyjeqqoejol432,female,31.57533399209443,4,3,250648,0.26861057700649627,B78,
+433,1,1,xswyvjbamaeewpgscdtgevrtezvdesbuywcrsynl433,male,72.26294211559497,3,4,36865,458.3402466216533,C23 C25 C27,Q
+434,0,1,waiigkuqnydxpvpsyirqyuxoqizxvkbyafgoprjm434,female,48.31098072321873,1,5,349204,507.6507110077917,B28,C
+435,1,1,srleyfjwgulibzijelfcuxmuyinlxajtzeozjvkx435,female,41.872688992244456,1,6,33638,191.62917608712505,C111,C
+436,0,2,uqqzbsntkjsgvglbhujdhocdblqzpqslzflzyjlz436,male,34.208995386244034,0,2,349237,412.63350233544423,A32,C
+437,0,2,urjwoetltuffvqdbroyrcgxwxyxobwuuvhwzeqvh437,female,47.62417090358754,2,6,2666,421.4581012910153,C111,S
+438,1,3,wmiiibitkvixhigeudwluhjnytajxfmnobmwezkj438,female,,0,5,382652,373.5969310200733,T,C
+439,1,1,idybjrerskcvwlcdudqfudsotcqperkftcrgazea439,female,74.89569402170751,3,5,330959,288.2846559727126,B73,
+440,1,3,wxkgadebagffpdztblywvcouchfxwgbhrundzwtg440,female,30.953030814417552,0,3,3101276,114.92905380795861,B71,S
+441,0,3,bzflvyypbfkalsyehapbryfwruiburuaybzjcmsu441,male,56.72831624037875,3,5,CA 2144,250.41956485011224,D33,S
+442,1,3,hbtnveidyxtcxyzdnooabdcelhwrhcuzqmpqwxvk442,male,,0,2,SC/PARIS 2131,228.56880213276418,A7,C
+443,0,2,emhkxyrulfkwqpjcflwrtugsjxdogmljnjlfahwv443,female,79.94710287246615,4,6,113509,296.168417384604,B96 B98,S
+444,0,1,jqouuivoiubmzlfcbyeesfsxfhoacndigembufel444,female,2.055926841027888,0,3,248733,431.0543660967951,C91,
+445,1,1,muczasxumvyoowgzerwumuliuicdznjmnszswekk445,male,26.72823626914862,3,6,29106,155.69513303270725,B73,S
+446,0,3,inlawfliapxyulbzxpfarlfqimqxlzikbzwbxnvg446,male,25.83261167901675,0,5,C.A. 33111,21.937117803667032,C90,
+447,0,1,dapwhxjjzsvycnypcmehzovmswqolflbpuqnhejh447,male,36.418143972015315,2,6,STON/O2. 3101290,484.6842894836367,B30,
+448,0,1,roieclhdzlcxhrruvolzcwcjpebxjllufelytwhs448,female,50.04166816280226,0,3,STON/O 2. 3101280,491.0163405355374,B79,
+449,1,3,dgbydzripmmprvliwryatoiyzqmwodlhydonnkqd449,female,32.85429229274756,0,6,PP 4348,21.197296902853115,B80,C
+450,0,2,vhkxajptuoxyalelinaeelvwmwowykxcgexmmwei450,male,0.5491800747859231,1,4,2677,406.0097778195089,C91,S
+451,1,2,gouycttnegyiuybzajvnqzkfkslvpepczjztizhs451,female,26.750636285826722,1,5,W./C. 6607,22.508129754112172,C104,C
+452,1,3,ohlxwixeavuarufhfxfumjupgrvozpqdmyxifqlr452,female,42.716635872757756,0,0,250652,192.56250382382143,C82,C
+453,1,3,ymxkagwnmijwmvakldqbrxzpnxvcgourxcgwiwhu453,male,52.565960149307685,4,4,12749,194.89654050831916,E10,C
+454,0,2,lbicjqwxiqzbbbsqlivsgdjjycqcpcldpopexnsj454,female,22.500043045836243,0,6,SOTON/O.Q. 392087,107.79619613355308,D30,S
+455,1,1,twwfepjnkecwwlwecaayyxiwusdysvzyjmsapihj455,male,57.505391879050435,3,3,248738,274.30442350957696,B41,C
+456,1,1,voiokliprbdatrkoewafcvufpngmposdivmtnnhs456,female,5.924604597123087,1,2,371060,292.1561695520626,A26,S
+457,0,1,agmpprxctttjesarfzvbjcmzwigxltrefnbuymaf457,female,23.404374776926023,1,0,113783,461.63855703725136,B28,
+458,1,3,insscrnvfkdrsdmpqcrqearrhsygcysgyqgxzwmu458,male,77.97198199686898,1,6,65303,490.1521881423972,B94,
+459,0,1,xtmbbywbtcuqerqpzcdggyrnqunvcxypixemfjfb459,male,67.59059965272532,8,1,PC 17604,445.4245916780179,E36,S
+460,0,2,jisykvaqjmhfmytfnbbwnoezagrheuioyruldamt460,female,58.553666457023866,5,5,2648,99.52455309476453,C46,C
+461,0,3,xujirdnmxshmqlwjxluvwcowfphzbwcejhxjqfng461,female,10.236942703436481,4,2,315037,373.1022616578294,E40,Q
+462,0,1,elsaxqndqmrhmifffzqpzbghheuiqlubdwnodska462,male,34.767971994780375,3,5,312992,100.32064166262049,F G73,
+463,0,1,aidckqntvtdgytgwrclyzitruktsfhmebhjckyzy463,female,21.659366346338608,1,4,8471,484.9063657196252,D35,
+464,1,2,zwrvtyytajqqxvmaojryhzjmrnyfijibapgdtegb464,female,16.830684370469918,0,3,248747,27.83984044382948,C86,S
+465,1,3,hnelaikhisomgddfsosrvfjtpkguflwjxzvhrrkb465,female,50.88378535277756,4,3,230434,399.31489661715364,B41,Q
+466,0,3,jpifkeoyrabnvimcxcvzatdundxcdfbtjagvmdhg466,male,26.76908698468895,8,2,345769,239.1175641082062,A24,C
+467,1,1,eesjiqoitoulrkqvhvmwasonlqixpxogxtcpwfhg467,female,35.389706069176604,0,1,2686,38.598756977987705,A23,C
+468,0,3,ymqhgmgmdqyaidpephhzxgkupsusmgivujknobrc468,female,56.631767208164554,3,5,F.C.C. 13531,37.28539288223146,B80,S
+469,1,3,mqudxndgdlxpodmvujluomstkwhohwlglrwozvqw469,male,51.79598582283737,4,1,248747,370.92488764535113,C82,Q
+470,1,3,kvcnonhkawisnvwsutjshteyuikikkmyvxixdpdj470,male,71.2435786802474,4,5,347466,233.15604441254655,F38,Q
+471,1,1,noqvjhpufoqtrcqvwkkcjhhqaxqhqjmmpdmiibqa471,female,16.005294996794127,2,3,SOTON/O.Q. 3101306,123.80845196017816,C87,S
+472,0,2,zkqyvaexqqfmcjyptuezeosdxfzqhkxdenhxatsg472,male,79.49281565793663,2,0,364506,243.10737702911933,B37,Q
+473,0,1,hfavqplovoxxrlheamsobzktpjiokujftippukgk473,male,27.003724650054732,5,0,PC 17592,16.52229793631026,B71,C
+474,0,1,khlvdcrplbjsbrsgnihcydvndyzlxdhgbsgxralb474,female,11.601988129911252,2,1,SOTON/O.Q. 3101305,421.97171636216035,D46,C
+475,1,2,qudtdnxlnuvjdsdtgbasbrbjxnehbigqijjnxahq475,male,38.29613008343175,5,4,8475,414.500410002727,B71,Q
+476,0,2,nnmcvpafyjzotdnusmjbhrvbijvbzgwszaerthkz476,male,31.39846132530609,4,6,374910,398.10541984542897,D56,Q
+477,1,2,bespkmydhwkbqbgnpcyqickokhykvfbfkaigjjsp477,male,33.00453819460374,0,6,STON/O 2. 3101275,362.71728334406146,C70,S
+478,0,3,msouemlqjherpgpvwhdrfzqybsmqjcxazzemmssh478,male,79.13303202919568,1,5,W./C. 6609,73.06273582793432,C95,
+479,1,2,kgzhiqfnbdhxdxcrpjollervgaxfepgguzwrqdal479,male,53.91598224454018,5,0,345773,303.08381125859853,A24,C
+480,0,3,tnundwfwwamnqfjnnlmapahttuspagkuikmnicni480,female,75.05257594454221,2,1,113796,54.91243701510621,C111,
+481,0,1,mnmrkgcyiwmetzsxbklnouqfxryvhtrsdosgmrye481,female,77.8333160722757,2,4,26707,309.16105836907155,E24,
+482,1,3,acpdmspkyahoipgtatsthllusuuuysdjyguiptzv482,male,71.2046541798173,4,3,211536,155.45328045062834,A32,Q
+483,1,2,cpavmneicnutrwrdybdmyejteixkcgukgypmlreu483,male,48.467776209584656,5,6,330979,394.3204198330338,D47,
+484,0,1,igfcmqrmhgvkxxsybafhzzfzmlwuacwnycctnopc484,male,0.5976261626837371,2,2,17465,229.34522785803003,B102,C
+485,0,2,yrqiyfyjsraebgjmcwmnzataxmoudzhavqkiultk485,male,63.82253824825647,3,2,350060,500.9590887223259,E36,C
+486,0,2,bmaugwilvnaxygofpafpfbnorcxfwutppykyroph486,male,62.03945093587922,0,1,315086,262.9664508611187,D37,S
+487,0,3,qqzrwekkpmjdsuxufiiwxfyrazlgtefmhtsfvivr487,male,75.627363099203,2,4,PC 17756,57.11570999407344,D37,C
+488,1,2,zaiawuoseiulteijhqvupltlmxealtchjrmkvvdu488,female,39.99029255923876,5,1,STON/O 2. 3101275,412.7035387586236,B82 B84,
+489,1,3,mnxxopjtrdgdochryvklfumhvitokxvlweqqoaqm489,male,30.92504787562097,0,3,349228,464.710025020914,C91,Q
+490,1,2,ecxgvxhivvvlqciposvmysfpijhpvzwrkpebirgc490,female,66.35917957102593,4,0,2651,200.11228289517535,A7,
+491,1,3,qfqwvnwqyghmwuzxxqgzuzcmyuszbfvvdnjslqzu491,male,,0,4,350042,80.40067860346103,D28,Q
+492,0,3,lzudmucmrvgdalpsfrembzsogccpbzymmncrudpe492,female,72.901381969361,2,6,PC 17757,47.75065831701376,A6,
+493,1,1,nlniylikywuvcspkgkoypcuopezlrvrwfntsbaxk493,female,28.644941876590757,8,1,330919,277.2468972474485,B30,
+494,0,1,nbllzndlgytvropavfmnpclpqlpiacrsnerpvovf494,female,,0,3,349236,208.43623720630498,C111,S
+495,1,3,uaftebuboznlsyfdjjofgcioagwqwwwrjckumcwt495,female,39.491369581812364,0,1,2648,142.39485072014543,D10 D12,C
+496,1,1,cxbxcvnxtxfsbgzccswjfjhzuawmkordoyautelg496,male,19.87242405710768,3,3,345777,179.49595098892192,A19,C
+497,1,2,icoaduvlpllfypcnlxikjztftamjaxceqjljrokl497,female,47.29021553285496,3,0,324669,22.08231415374843,B71,
+498,0,3,hxvjiqnfusvxctbwqjkuhqxxikdpziceesjihsou498,male,15.136341179839137,4,5,250651,501.0138235246566,A16,S
+499,0,3,wvvdhoglphhrpkugzwrhmdcddcwuqbhuapgjkfpd499,male,33.923622130861716,0,4,347470,96.19852699928958,D7,Q
+500,1,3,vxikyfzsraxophvbhxddcdejpaqyuircelixsxmt500,male,17.550834816717263,0,6,2691,12.560911453137257,A26,Q
+501,0,2,hgszzmacdwicgaefdejnramupsdncqvjyoisqpke501,male,20.766397239742446,3,6,312991,17.686167528146665,E67,C
+502,1,2,eoiedctsmxpolpcgnbuzhbksnlfqclmcoknkeitt502,male,14.051935617079138,8,6,349209,331.2525697751471,C106,Q
+503,0,1,xqqyzeaakdqiirjzkzjcjyqhqscpegihkdulmatl503,male,34.50416562453183,0,4,8475,91.18296286330788,D28,Q
+504,0,1,hiinprkqswrwhbpnvxgwnfobdyuyfgceroxepgey504,male,4.092141840304163,0,5,28424,150.48915786104743,C49,S
+505,0,1,nebgatgbxnqesdcorzkcbjornnsesvwpxwohltri505,male,51.89136822716787,1,1,SC/AH Basle 541,316.18512985206735,B30,S
+506,0,3,eybquogrciamqmtxxlatfaatdxynrfreraltiels506,male,77.6748363210363,1,0,PC 17572,207.43011855482612,E25,Q
+507,0,3,hgsbsmcswrjouwpdqggtkrgyqfzqigpjzxlxneqg507,female,64.47876052164233,1,0,113514,153.83054753148122,A24,C
+508,1,2,wrxpntmwbczpnlokjzkrvdcaaepjzmsdyzdnvgfh508,female,23.394024736503876,3,4,250655,5.8059778059532015,A10,
+509,0,3,hxrzjzhkgpsvcdrxdvjbaqhwlxgfiwonrpabecab509,female,27.21569750045367,1,5,345765,456.9614461648941,C45,C
+510,1,3,kblprccmkerzjiacuhjcseclwqoozcovjxoybajb510,male,76.14315866604264,1,4,12460,136.06171105825152,D11,Q
+511,1,2,dgwydvbwtbawgmdmxgfonfxrsghinaybvvbertck511,male,38.008493305953536,1,4,29106,133.83617056149225,E101,Q
+512,1,1,frneaddomregtmdxvnibllaxizrocvydlsrbffbr512,male,3.1512576370039627,5,3,7534,499.40903691551125,B4,C
+513,1,3,igimppwkxdtcyjzughlmcavqdoexrjcnkfpmnxgp513,female,52.26690411928349,5,2,370371,254.80447157768876,C32,S
+514,0,2,hmsfzsiptdszdqedsqevdjcspfmkuruwpdctqteo514,male,19.993824484185023,2,0,363291,346.0522060607323,D28,S
+515,1,1,gsxleskmaesxfpdqmfuobyyfhisjktfrjohorasb515,female,36.08076285382496,3,1,384461,367.3623653097278,B51 B53 B55,
+516,1,1,awhxaxfrzdeambqqeeavskvslwbaohmxocytddkl516,male,43.08499769014149,1,0,239865,27.601781529235367,A24,Q
+517,1,2,kijdcennbocmqzbqytwdwugmtezigryxjvgoygbe517,male,8.690504849274527,4,0,2908,65.92823605135483,B35,Q
+518,1,2,ziqlrsqyoygrjpkanxizqbtaguulyfldwsgbwtyu518,male,16.61584094472202,0,5,370129,5.795902866291298,E10,Q
+519,1,2,czwbtexxnuxevgmrrxpiebuescorpatfrvafdqgz519,female,69.4924689396737,8,0,PC 17601,239.96216670508568,D15,
+520,0,3,ouofehvayrkrctmjeynkdceolwiwomnjrsiqzjoa520,female,36.34789310336505,1,0,349225,112.22987052067802,D36,C
+521,0,1,bfhsevgpqkuehtbzhowwfgiudubqzoeyidopjepi521,male,9.762205476864388,2,3,2664,326.81951874675974,A34,C
+522,0,3,kwqppqswazeullkbotmblvrhzufcnvyzajmuljyx522,female,72.08164771618429,2,1,113028,364.56395103758564,D19,C
+523,1,1,wscfrqrpsthkswkmhtripbzbfixjxxfqxcdkjvwc523,female,8.275833257594211,1,5,384461,23.9742457664351,C104,
+524,0,3,xfsfsuswatxsoyicnblqzjbpamivjwabaqkvqois524,female,23.573827655595007,3,6,111240,480.1136342474401,B42,S
+525,1,2,iigvkxetgrmfbknejdjcjlmgsseinzkkkmfqltsg525,male,8.658589576071707,4,0,312991,473.4208594716302,D11,C
+526,1,3,ogccvcsxhtfrfufszdmdrojjfchajaztthuwpsqe526,male,31.827978230462637,0,0,349214,150.63693958689674,C54,Q
+527,1,3,ggcyjbjxyylqmjbloisqiksziowcyligncravamm527,male,17.16354462117598,0,1,SC/AH 3085,316.5981322000028,C50,S
+528,1,2,fxszwlpmniphesbpqrzeovneemgyepiajniummxf528,male,1.2348625863137437,8,3,11755,189.16064699810104,B41,C
+529,1,1,khtxamrsecvbyuimhxdauiynfxqkdywnapbsnisn529,female,38.911887640059234,8,4,330919,336.3279591685416,C148,
+530,1,2,esaynynyfdyzfpvynnxmpfedlpvnxcowysyuljgu530,female,,0,3,112058,96.79323105158342,C124,Q
+531,0,1,kyqpgvhguqfbtzozqntlnzvflicvwmgoymrmejsg531,male,71.79634556501878,2,4,29103,240.8252755438807,C124,C
+532,0,2,zpyxtxjusgikynmlbtssgtdiwmaqysadfvwfbymr532,female,48.65816553437114,5,1,363291,38.431171686482955,E24,S
+533,1,1,jwtwkhutntsajbeflinxsqwdhlryuwjkvnpnrflb533,male,44.217587393096785,5,4,2661,396.3114499783708,B5,Q
+534,0,3,dzqqmplipoulsegvlyfbllamsbuzttgnobgnfcud534,female,41.67876885558953,2,5,243880,401.0559552825368,B3,
+535,0,1,bviwyihhjzckhajmbrsbehwwxlvmteewcrksileh535,female,8.476082407441464,2,4,13568,419.4423388623605,B20,
+536,1,3,tksneknlilrpsaxwurjkxzfpjvqsjdjsdcpqkjeq536,female,30.679691137332934,0,5,349256,125.92696502683621,D10 D12,C
+537,0,3,dtfzqjwzabrurppwqwhidcodrxouuseuefearytq537,female,55.565659746695836,2,5,373450,36.680779271127506,E38,
+538,0,3,iqnhupdezwdbwcilunmyclpemkdoodlavhubpyfg538,female,60.84903998394056,3,2,36963,495.914530495003,F38,Q
+539,0,3,ftukfebkzmjwbipbyzriuexptdcvisjuhdnkpsnc539,female,68.5102039315683,0,2,SOTON/O.Q. 3101312,10.269076664633928,C128,S
+540,1,2,dorgelnmqsmmmfzlzipilpwrfysmqqspcpijejpn540,female,77.39156498760033,1,1,110413,506.3425236976932,E31,C
+541,1,2,mqqyaevpimwmmzfmriracqvynaoaekvhwrcouhab541,male,8.215543480496502,4,6,365222,76.67151441506638,C103,Q
+542,1,3,mrseckcrfdmtunngxqiwujjdhahjensopknwyrmf542,female,68.58089746613173,0,2,350048,508.9097777763923,D47,S
+543,0,3,unzgfsmrdmgeldgprmvqmzsjffjvhriccgyunprk543,male,48.03478013739817,0,5,350034,319.68644027542473,E58,
+544,1,1,uaefkojtpktdajyyfqutmmcrdpoiocstfhziykyi544,female,,0,5,SOTON/OQ 392090,468.5598749692502,C23 C25 C27,
+545,1,2,odrzplezlnvhjenslrhaxnnkqmsngclfgyfqyvbv545,female,21.756352442510558,3,3,111427,11.42460953865567,D17,
+546,0,3,arkzboiyonusrfisvhafvhhgrxvteijrblfrupax546,female,42.093540832582484,2,3,373450,111.27830065519916,C95,
+547,0,2,kkovfgqefjwjozfsugqzudptyqzmbudtczmsbymi547,male,65.24838267215463,8,2,C.A. 31921,441.7182490742543,C123,
+548,0,1,wpqjizygwdkjtypecohhcqixlnchbvklhibbjkck548,male,20.064827713133354,4,4,348121,286.56982448064315,C124,Q
+549,0,1,zywolzbmevrpwybuxcggzpkhudkexaewsejjlmgz549,male,4.232470474155253,5,4,28424,152.56845251839573,E25,Q
+550,0,1,paowxavljsfndeisqmihnuvhklsucjcghagfmevr550,male,10.908308596194312,2,0,A4. 54510,422.65379143664364,B82 B84,S
+551,1,1,xnfyufckhgyegkczsapobmtzndlowktsqflvdthm551,female,5.131317244146944,1,5,11771,54.05008695237851,B73,C
+552,0,3,hycjznjpzyyygjojdevqukokaebtrniynrqhzmei552,female,60.07695516688034,4,3,345572,9.834328322031583,B73,Q
+553,1,3,soyrfgxinuhqlzunbfdqoaulmbapnpqkcqufmfkb553,female,76.42916756895717,1,1,349206,112.42339136136312,D33,C
+554,0,2,gscojmapgkihlhroiuqjvrkmpbzynjrmxkivmztq554,male,74.35319968936285,8,3,371362,192.47015666918637,C126,C
+555,0,1,gmkwitqygfqfcmsuksbkkkpwrqymegnxsrmktsco555,female,12.979327776070294,2,0,11765,76.3381093903137,C103,S
+556,0,2,omcbhrcynbefejxhwdrckypeijlqswjdejvqhyrg556,female,39.80285007500367,5,3,248727,204.33311289964922,C101,S
+557,1,3,bfegnfqxygokrwrsngfigutnryjfyakvilfjkcyl557,male,43.972854319761055,2,0,330932,219.42788385131894,E68,Q
+558,1,3,cehuzcbjptouaomjhjmtygndoqzssdigxqivmtym558,female,31.473668995742432,0,1,363291,15.833316833964062,C50,
+559,1,1,ivzbmuljcdyhlyhpilcbgqemcnnpfkcdfxszwtnc559,male,77.27793195488047,2,6,PC 17609,119.77306517114796,B57 B59 B63 B66,
+560,0,1,xsqdootcnwbetnwocxqbdsqbxpffengbttudmtpn560,female,65.05025514734282,5,2,358585,166.56391445386757,B102,Q
+561,0,3,cutntbtvrdxouxcrfcwzpgevlltogxsntxyhxfcd561,male,35.255581626198556,1,2,17466,89.31634900953661,C91,
+562,0,2,ssxbvfpzvrdijyrmlcquplatflfgwdkzvunwwdwz562,male,41.36812582667936,1,1,STON/O2. 3101271,212.98866990696453,E8,S
+563,0,3,psfmagmpkmlfnxrhvxdkovrlhiixsmgenrmcshvb563,female,25.96432601848137,8,0,PC 17596,17.519653882296108,C49,
+564,0,2,pgpkjiwyngyksocarvlzypiqahlbbppvowxmvebt564,female,32.436051338395615,0,6,347466,489.06677172160295,B94,C
+565,1,1,qxssmyyqapueyilvquqqtryrgtbgwvvnxburjsrg565,male,60.63115833171612,8,4,SC/AH 3085,469.22041851410296,D36,Q
+566,1,3,xhuzimxfdzpykxubhgvczomhksctxzaqhfidkpbd566,female,28.354766940533633,1,1,349223,99.6730966297159,D50,C
+567,0,1,vnielrjmcogxzudfvjaeedjncsosxrxxfpfgqqff567,male,40.52004813685218,2,6,SC/AH 3085,338.83860330933663,C82,Q
+568,0,1,csthojoaljtlcdmshbzhoahbkhrcxxekpgwnyzvi568,female,48.45930716332279,8,1,CA. 2314,511.49877528338203,T,
+569,0,3,ifwzjrkpheimtfiirnkndmhkstsaduzsdtmsbyud569,male,49.84010194295094,2,5,STON/O 2. 3101280,50.8274043159458,D7,S
+570,0,3,ittmoewmqyjfgiwdpjdniehkcpxuoxzfivexhmag570,male,74.23354238981936,2,1,SC 1748,65.9721869738982,A31,Q
+571,0,3,iydhchuvqsqbkcaopgajrjkayxcmmodemuilxmtk571,female,67.0319568242664,1,3,113055,308.43334667214174,E50,S
+572,0,1,cnhabesrcbrtibqxkjzluizhesgprjslmvvjbfwp572,male,36.79714594241897,1,1,231945,463.4908605028322,A26,S
+573,1,2,xlsfzctvuoztfjycqxubrwscftxvrwanwlimyopg573,male,29.95288902100812,4,2,315093,107.59685888982018,B102,C
+574,0,1,vkxhqejvoyuyxlleucwhsymeakmlokyyejildfti574,male,42.744487862861234,4,4,SOTON/O2 3101272,8.371755466365306,D6,Q
+575,0,1,nmcncqgzartyacwlxngluybrbfqwzsaokwmokdfr575,female,12.693447109684534,3,4,2680,438.37725197845276,D46,
+576,1,2,hfbvrvitrmgphbffdpjzrkrkdfvbtophygruhyid576,male,34.021903586326744,0,6,2223,46.03817787993001,B38,S
+577,0,1,dxotffqidcqitvbrulbbnggmfhlruxfdyykxlcze577,female,41.67926978013516,0,5,PC 17609,393.5752509766126,C118,
+578,0,3,ijcahzcujgdegkoreioazwopsvkactroruhbhkga578,female,28.069800145258874,8,0,345765,390.23432993506685,E67,Q
+579,0,3,kgssgsqvublkeszvajwzhccyzavfjbcyqfjetayx579,male,0.6502134562121475,3,4,S.C./PARIS 2079,282.90034228248373,C83,C
+580,1,1,iowerzzvkfcunbzhbeiqtjwenkzzwrrtltuzabud580,female,69.68892373408775,4,5,2223,342.8166783787536,E10,
+581,1,2,ijyqeqfkxkbtbziapuuztzhtqaaxywrxazpqamwx581,female,10.0381401841091,0,1,367655,128.19774648182027,B50,
+582,0,3,dnqezznyxnhcoucwmoqjdpangaczgewzaakyvajw582,female,15.254430227802121,4,0,345364,156.68285858283315,B73,
+583,0,1,agkhweoxypvxctplvadpfwweendgsamdjsouzxnd583,male,13.632949920437653,2,1,113804,322.88639752267443,E31,Q
+584,0,3,aompxirbkcmibhjuyajhbrlaemhstgvnidemfvwv584,female,52.95867730799007,2,2,373450,49.566451731470096,C93,Q
+585,0,1,ocbxwfbzkfuwcsbkebalrhzlflleahebnyfypvyw585,male,45.35608707590673,4,5,250649,312.50456916438645,B41,Q
+586,0,1,sayavsprasunkhrikkqilzqwlfeqnifmffdpxdkn586,male,42.083661531406,5,6,113059,403.23026475781387,E68,Q
+587,1,3,xvgzgmyxnncjslkbfzmyfifvuhfdqudclpthliav587,male,43.99111768336548,8,6,113784,30.68097557163794,C104,
+588,1,1,jurekutliptduithcfyeqjhzrbkjixgzbpluovir588,female,79.1903412335752,2,4,113786,102.50414157321298,D47,S
+589,1,2,cpqjrsluoiewzgwpxrumgfknrsqxzzfzswhaszcp589,female,25.3960646079576,3,5,S.C./PARIS 2079,381.5965709979819,A32,C
+590,1,2,mjhzcmtydihslmmmlpmsgoopizpuhotfkgzkdxcl590,male,42.43100454021593,8,3,7267,200.98953063497345,C103,Q
+591,0,3,cvhfifyoeyhypnmikechfobfjxryzzurmgvzemko591,female,11.116349007899196,5,2,PC 17758,360.34107430662687,D7,
+592,1,2,cfkpypvmnprjztlgsbtwvnmyrmmmbnmbehjdfsuc592,female,31.438919822459205,4,5,36967,107.00341902383823,A5,
+593,1,3,ptefbgvkotmanngbwjsjippgenodxyexjmtesutr593,female,53.92228808373645,2,2,349213,185.31718035055167,B79,Q
+594,1,2,gqcslixywetxxqhunwrfdhdyuymaompgltcicylg594,male,25.880733305511104,1,0,2686,408.0272071043667,D48,S
+595,0,2,bjeptgipxunbwrzboqrlrsdfpnhiddwofqqmtdhk595,male,63.15944251568587,3,2,W/C 14208,240.3318114014489,C70,
+596,0,3,gcxadanjzfeljjovablgpdgyfyczrxfyxkliygxn596,male,33.96979993584961,0,1,3101277,174.38102247283948,T,Q
+597,0,1,drkifvlhqznuawxfpdoohwijxuggyktzfkynttpi597,male,29.259623564541187,0,6,347062,164.86275993158154,D36,S
+598,1,2,wuuusnxijzdwvtsswtnsltwzfivdqliqnuqvxiky598,female,18.14026573846045,2,4,315037,317.16365875463356,D36,S
+599,0,3,bfeowvekoghwkibkzravzffsncpoeaxhyaqndksb599,male,39.95973938758973,0,6,STON/O 2. 3101294,122.07134783123598,C99,S
+600,0,1,qijzjffsqdmeihjcnyteshuxftjagxjipnyyrjvm600,female,44.756276035621816,5,4,231945,400.02051693893907,C87,S
+601,1,2,uclravtkydrahojufiqmtwhjmtdwarbfrxmrkytb601,male,57.96603027566378,5,1,28213,365.52940594130666,F E69,Q
+602,1,1,tmmpswnsumzfdauyysxnstgawaaeebgetrakdtfu602,female,58.661830723443494,5,5,370371,271.09414437681374,B30,S
+603,0,3,ewvymqmctnltgbuqasivxoxsadlsexawsgclpbex603,male,54.07000290531877,2,0,113787,120.49605837679283,A23,Q
+604,1,1,bjrveitdqdikccswbjkrbywniunadjnshplwnpjy604,female,44.9992831794897,8,3,350406,251.73495285114888,C118,S
+605,0,1,zqbpnqdpwzlvehngsnrvilffqaxbyfwhldnetjlh605,female,60.11233393608974,8,3,347068,273.51153079412467,B49,S
+606,1,1,osffiueoqnwzksrjdvypmntzehhvsvduzarnxxtv606,female,42.99128802126589,0,2,2665,195.7288917224245,C85,S
+607,0,1,qoscxaaksurktimpclycbgfbmyutfovqydusjfxd607,male,58.58794862621532,3,3,250643,92.11428851994738,A26,C
+608,0,2,pdyroynmwsrmtyxwaorrtzejaryfqpojbwbesjad608,male,4.429943288105304,3,4,349201,335.3719994562068,D30,C
+609,1,2,tubmnyvthrlkobpplzpdvdjpucykaxknnuiapobz609,female,69.2509707215311,8,6,3101296,254.76053773640007,C86,S
+610,1,2,vnzgbgyrpqlncyhbijdsscjlbjcnfodieagdktfq610,female,19.39439571872097,2,1,345777,69.54463920607387,E10,C
+611,0,2,mfxwemupjlogthrbpukubeduhnzlfodyxcepfrrz611,male,2.9224741862290466,2,4,28664,391.23689237129054,C91,Q
+612,1,2,swjsmiqzfdqhfcgwiqabiqrjgbrqngqwurbitxtp612,male,66.25338309334107,4,6,STON/O 2. 3101286,427.5989338614941,E101,S
+613,1,1,almnnzktefanazaaxdmkyvkvdbfldezcyammlndn613,male,76.6426037959302,2,0,17466,348.9171250183918,A10,S
+614,1,1,irairsgrccmrxispcdfjhsyfbyxjjrbkhwstymlo614,male,62.91534399709576,8,5,11771,349.89142170558176,C90,Q
+615,0,2,ufstebrrjeaxmrdebhmnqlsfszxhtwqpoqwaehtb615,female,26.169839553507188,3,2,29103,393.95320649938685,C123,S
+616,0,3,zhmbzjdyhfnlzlvbsopcnpgvjqfvxngcfhzlqsqs616,male,54.845473231272905,5,6,350036,40.29919635748004,E25,Q
+617,0,2,ornqymmjuqemfnnjscprfdaijpiodrlgxmfkssmt617,male,27.318397460322778,1,3,367232,452.3873811535363,A7,
+618,1,2,depopqlnllcfhgmpdfemgszoihcylguzuoyjowit618,female,17.260571268614715,2,3,315153,158.86447462578832,E10,
+619,1,2,zpgahbmbgomxarbgrvspwetvungcgvphgpwmqjkz619,male,7.430978157115795,4,0,WE/P 5735,499.72621328853006,A26,C
+620,1,3,yeizsamytfjclnohoriqmaphhofrupbgkcbcxrpk620,female,49.28247168267511,2,0,29750,284.8637871996074,D17,
+621,1,1,galaxjstmssojmbazxxmlfvtvdonloveppvjlpcd621,male,32.188396230593504,8,0,4136,105.16915778401442,A23,Q
+622,1,3,efbolugimdtyxxchiesaxkuntipjwilfatxgugep622,female,56.6067889793116,4,6,364516,279.50274678235843,D35,C
+623,0,2,csxmtwzzeowwrczhkcywfclsjshgnqazyywmmeji623,female,75.5583139965826,8,3,C.A. 31921,54.423378996023224,B96 B98,
+624,0,1,zgvcjaqzptchfvyieklfqhhaeebssrdfwxakmslu624,male,16.497337010547575,1,3,STON/O 2. 3101292,253.4304776515301,C101,C
+625,1,3,luftwoyennfocjsynnfbzaljfuyyvrmczqagpfis625,male,1.440915181207265,2,2,PC 17611,191.34981240308633,D11,C
+626,1,2,epxsosdxykukdlixrnvijkwwjbkhokwdgylitcho626,male,,4,6,A/4. 39886,37.26945466036073,A32,C
+627,0,2,jnubsmbjwczmvgecfamqnsezqarojdwksjsvqrnu627,male,6.4923594949658625,4,6,374887,469.8011455405036,E68,S
+628,0,2,sntxhwjxvocuugdovfwnuuispttnvfutxxzzoypx628,male,14.671250793926044,5,5,28425,318.0595444845738,B41,Q
+629,1,2,nqikkvqwmzjtkhbvkeicuxaqkobjftadnjlxzbqy629,female,53.723619005426784,4,2,19988,60.89627819338076,B50,Q
+630,0,3,blppxwueclyxjrcedtdetlojmvrrdgtyozdfrnlb630,male,72.44798424661552,2,2,113786,449.95268306257543,F G73,C
+631,1,3,bcolswujgixeyysoawsphthjebfsparxlbfbhxmv631,male,29.278127573496537,4,1,250646,8.596712834707676,F G63,Q
+632,1,3,gqvwxaycamgyqecohkjxgfzkuwcbtyksddbwozbi632,male,9.505634688860885,5,4,343095,354.0700918270658,C23 C25 C27,C
+633,1,3,wlbtakdauztbweakqcmvmqxdjorxujvmrymjbfop633,male,51.1730317382892,4,1,349207,108.44886523043165,C118,Q
+634,1,1,sfjsphmzgdehvbxhoqhnjzldzcndlbadirifkrbw634,male,27.91001304005837,1,2,A/5 3536,364.99536496055606,A10,C
+635,1,1,fljlejieusnfnjzizyffefephxcjjyodishyfpyw635,female,78.39013605372047,2,2,SOTON/OQ 392082,268.4746294721198,D33,S
+636,1,3,ggqinzseeuwgjmelzaveeesipduxwshynxjqsfcz636,female,48.309059392484606,4,3,14312,305.73453230384547,B69,
+637,1,1,mevbvfqdahirmdmeyzedxendcueunaihbbdfbdid637,male,51.32030892066237,8,1,13049,77.46201491004513,D30,S
+638,1,3,dcgpyygbbtwpmwflfgupaqcexkoysigdowowqrkr638,male,13.572998048770042,4,6,350035,325.9288159470777,D45,S
+639,1,2,fyxdzsdnefusjwkkxmrrddamhqwtwtbdbcjckije639,female,,2,4,7552,102.61970751323616,D9,S
+640,0,3,krtvmkzyegfjamrfqktqabqtbnewuchboiqnpspm640,female,17.688423927130234,0,3,PC 17475,215.30276545421899,C99,S
+641,0,3,nhfzkfqgccahxkogqlrthedbrcggxmjyvnmchpef641,female,34.36160785639111,0,6,SCO/W 1585,173.27504444353525,C125,S
+642,1,2,jttayuqmukuahgxmnxkextdmqrwbeebjhyvflgwp642,male,57.11695820230314,5,6,STON/O2. 3101282,370.05740797808727,D48,S
+643,1,1,gltrxsabdckvgzfvetchksxxmvmgtfpraffmuitb643,female,4.0805928115844745,8,2,323951,292.78304596817236,B28,
+644,0,3,abdzmbfldorqmclgcwyoqsodccdohbtdxddkdwwb644,female,24.944784383438098,1,1,315082,237.0346587709258,E10,
+645,1,1,nqnqczrtonnasgtwudixaodksdmrlgoobhyzcaqz645,female,29.923610163604355,8,0,19988,114.63610841194887,D56,C
+646,0,3,dsfugvplygpvejxsqaiseuegvqhzfowoohurmofn646,male,33.40468426708917,1,3,370375,415.71056034306633,C95,C
+647,1,2,kfqwnjjcelxwvrkmemvgycdacgkpjdtfdkwuxtyg647,male,70.13141989266023,8,3,367230,493.9755517799574,C52,C
+648,0,2,nlaxemqdvjjwhyjzxvmabsgbsxfxhfhfxaieizdn648,male,74.32587359446478,8,6,PC 17572,375.36550837585395,F G63,Q
+649,0,2,pnfsivmmmnqwuqzofkduguuduuhxoqcymeoflbtu649,male,14.852388822948171,8,4,11771,502.068451535818,D19,C
+650,0,2,mtydumrcuyjirwmgvtnbddqkuharjmaqncpnmgzd650,female,6.513344323471294,4,4,347088,484.9079455132768,D35,S
+651,0,1,xjapzkwzleaznnxdrkgkwhkkgbrrmlwznygujekh651,female,37.865591114793354,8,1,349910,101.66837606827565,E25,
+652,0,1,dewqhgstmyfhtmbjrmdiisrhdkwfpodstvncsgih652,male,14.88204957524596,3,2,250644,38.99799132408985,B57 B59 B63 B66,
+653,0,2,wiplvjgyidfoaxqqzfihcnhtxnupecciwobptirv653,female,61.71017983593895,0,1,230136,232.79102790177092,E44,C
+654,0,1,tziofvwdewfndlauhzfpwzumjiqiowwbuuksirlv654,male,67.18185148077606,5,2,PC 17569,443.16227561818266,E44,Q
+655,1,2,dildahdlpjefonzshfolmklppxeqribvzqnpupxo655,male,55.28315797508961,5,5,113783,13.264328395215218,C99,Q
+656,1,3,riabrdvylwiazugpjzbplwycitcoalqppoohuvhz656,male,77.18387933491296,1,6,347062,145.32635033163587,C50,
+657,0,2,mlbaholduivoskqlmpumrwtakzlpdcgoreizggzl657,male,69.54240940342842,8,5,13568,280.4028239922583,C70,Q
+658,1,3,tcxvhopwruzzpvvygbkefxntwcrwzootdquoadej658,female,14.859038594762662,4,3,345778,413.8366633702554,B102,S
+659,0,3,ptofnihdqibrtgpbnfthryeamxlpilphaiflfnpz659,male,76.6459813991532,1,4,STON/O2. 3101271,282.7207921975097,B42,S
+660,1,2,otwhrwslptmtvmwthwjsmselckjucexfoxnwtfoh660,male,70.83649005339697,8,2,33638,252.83537426653055,C148,C
+661,1,3,qwaqwwjltqtgykmlyqutmfqysagogjmjyzcupgyw661,male,45.70670102911026,0,1,PC 17485,251.1736008302746,B28,Q
+662,1,3,cilemuhepdcieuyfnfewjgvtweaohhnsqipfvxwu662,female,18.687837587058134,0,1,14312,327.01328009661336,B82 B84,
+663,1,3,eosdvhpqcjfuvudepoyhfxmgreoohjbuwefahxmj663,female,48.72320220184104,4,0,2648,242.5520328237697,A26,
+664,1,1,skeyvrhcfihudqxzjeonfvdetgwyejhfiatsxoji664,female,3.0790001182821904,0,3,330877,504.0750822955575,B41,
+665,0,2,zncdieyqmezapvvunittajnlmjwzawyeprjumuuk665,male,5.807796227381911,4,2,323951,471.63666493861075,F33,C
+666,0,3,lvzhyvjgeyrrjgcgmzomtgvjvjuttlnewmdpldcg666,male,77.90173632772857,1,5,36963,235.4678236097692,D48,Q
+667,0,2,dglclgyoykjoetrjsyxsoulrdrtvrygeufrgxdqy667,male,29.924712347980304,4,1,29104,189.32853449908743,E38,Q
+668,0,1,nfscponxauifosgiegcdoxbtxsrhakpqluzxwngt668,male,38.127849971772484,1,5,392092,122.62718764511479,D45,Q
+669,0,1,gmwgtovfyshazqmvortpfirgncfyvcimftakpyil669,male,38.99519392337453,8,5,364846,97.39008246736717,D48,S
+670,0,2,xzglyihietrjxoynzqnjjixjoculjmpxayddkeph670,male,45.45527766361484,2,3,323592,434.48422260480953,,C
+671,0,2,vrleesynezsbvgbfszkhnfrarpzhntlqxhegwlxs671,female,46.78352477949533,2,4,342826,509.45162940508555,C50,S
+672,0,3,vkvcwlmrvwcjblfigujdmbxfsddxmleczijkuxai672,female,4.638623765741314,4,0,35281,478.5688712529026,C104,
+673,1,1,gymzusuotsrrzrgzfjglzqspkoqteftkunnomvwo673,male,41.40443672164714,0,3,113796,474.44020199548805,A26,C
+674,0,1,phxpsgjegthzqimzgivpfllqrfhelnzkybyagqlo674,male,43.17518935710703,5,3,C.A. 37671,377.17488763965844,C50,C
+675,0,3,cezzhgzwksbcyxjpgnsgimdcqlgkyuqzfuodlmxq675,male,52.35552298880896,2,1,367228,260.8576274175262,C148,S
+676,1,2,gzihqdwlcggacfrlkmueghabrmpompiwvyswggww676,female,70.53452479502802,8,3,4579,356.6601379726169,D7,Q
+677,0,3,sexqucgwbcvkljgufsclkzefenzbozcryvnzexio677,male,12.458650714286732,4,4,349219,18.253689316834045,D,Q
+678,1,2,gofdxwgbjxzduavbaoevsvofbmovrgnddoccwfrm678,male,77.8972133670051,4,2,13502,143.31091545202557,B77,C
+679,0,1,pzvqpngdjtnekumhuczuqqpkmhkbvaldwfgckalp679,female,67.61952072893592,5,5,330909,446.5984322893414,E36,S
+680,0,1,bvdltfsfvdytntayamkoxhumfuxwyakbfsxtrmfu680,female,36.27122806401647,2,0,330909,349.2430727767043,E40,
+681,1,1,afodbbwrhkdhablxylnpqhdmszsaaeumywjexnim681,male,,4,1,27042,323.22026242624935,A6,S
+682,1,1,bnfugllpelpyxhgqzxzakqkbvoxivrmwsltuuzxt682,male,22.41124869418196,0,6,113028,74.25838077750322,A20,
+683,0,1,rijzidscasvrnvlhkvgtegxkmdbjdvszhblunvkt683,female,60.36943172521262,8,3,693,501.33298387732543,T,S
+684,0,2,xboxtqdqmzjqzbszoceggpdubbtdbpdsrbrireju684,male,35.70222979929881,0,1,13214,82.31534728857187,D49,Q
+685,0,1,nolqsvxuqltefdzirbvtamsvchkzgleuhaenkmwr685,male,70.79377386199162,1,0,350404,318.70409674843864,D19,C
+686,0,3,unknnvcdaptbvllgxxyqywmxuosqirdmicoccatj686,male,51.12023439573541,2,0,382649,313.62151313676276,C93,Q
+687,1,2,mrmybucdrghbjpcpsawcxzakxzhpxayzejnxxftk687,female,34.91398116060469,0,3,364511,176.8803797999927,C93,Q
+688,0,3,twzlcpapuotacpwpmggumhcpgfgsxjvkswhzhyje688,male,44.21455892226492,8,3,SOTON/OQ 392082,329.0056652834629,B22,C
+689,0,1,riijvyzvrzlxjbvntdzoscrdoycmkwrzxtwknzmz689,male,,3,3,12233,167.9368781145764,C106,
+690,0,2,zauwhmaltwvtpinjntqlzihuvbsjzepgrgcfftbe690,male,28.436846713924183,4,2,PC 17592,184.3460767355497,F4,
+691,0,3,zxcdkpiwdlyyiheupxgkcnksojifpxyvcysnksql691,male,62.57546880320373,3,6,112379,462.2116722352612,B50,Q
+692,1,2,liwymoecvanoggpfhuttmrocueitqczzmwpmribb692,male,79.99874711467054,4,3,349217,259.60154644397267,B49,C
+693,1,2,wfvzsegqrdkpzhwymjceofviqldpqipxxuqzmtsx693,male,7.873252864346244,4,5,330877,369.9841489777249,A19,Q
+694,1,1,yhtffkmclppfviyumavtawcfvsmxnyjvplyzwkdw694,male,66.86804982496025,5,2,349209,427.1340818059397,C110,C
+695,1,1,mkutaniqofnjotosjdjlgrpzmkonzwuvpashlcjt695,male,43.103130718327975,4,4,3101281,108.2038784837204,D6,S
+696,1,1,zumvlszhvczbculngspyzubkhnmxufcsazfpggtq696,female,64.98598766293202,0,6,237668,427.3983481577637,B28,C
+697,0,3,jknxidyjdkslkfrrbgkycewisdzcupcwqhzsgcxc697,female,11.368671843926396,1,4,112050,431.9434519161486,D11,
+698,0,2,axzaqmmazwqeqiqceoawvlakxgnbocjrvesggmrc698,male,49.313650013251625,5,4,349204,326.79535587622934,C93,C
+699,1,2,edswyqiychxqffbcdrwuutunuylthnuuuogkkgyq699,male,24.713626402482106,1,4,P/PP 3381,164.59926754768367,E46,S
+700,0,2,hstsxsgvqsmrwbzwsnpiqvctjtujhecdnymrgegl700,male,69.89690078906223,8,4,312991,247.08940311015513,E77,C
+701,1,3,gpacpcbvzfixsgtmvbnibtofgrxncmewawukmqrg701,female,57.439848978895355,3,3,244373,76.55139481273577,G6,S
+702,0,2,khkzebqutaemzhfutmfrexkjqshlfrnkorhnyazm702,male,17.005488231233045,2,5,113807,22.681110908641358,E38,S
+703,0,1,cvlvdhcrmosjezzizwbxxwesqjcmjcvbefmzelaf703,male,77.69898366230288,2,6,11751,290.4432533085516,C70,Q
+704,1,3,zamteuomplngheqcikpmuvdeywsyiwzqdrbwjnmh704,female,59.69596268733926,3,0,244373,94.40810702945221,D50,S
+705,1,2,xzynswqcubqlgmmayeevlbcdcfrybdgsgbpibyhw705,male,49.89994041745342,4,5,11813,209.11257526137183,D19,Q
+706,0,3,oglkwthjrhcudfhgpgoaxrlqhxziolchxqqenjwz706,male,49.94777445119866,2,5,2629,321.6753271439274,B38,
+707,1,2,ipnplnpmjurpcrfpcpglvgesshtuxskixuuigltz707,male,78.84142564687062,2,1,113789,495.84587804931823,E34,Q
+708,0,1,ajilczsuzbrqcxtfpwiohrsbhftpjvnxeyflhnex708,male,18.421640081335973,1,2,113789,241.77189764012894,A14,
+709,1,1,ovocmvvqhbnmzzuzcyhjzmfynlpiqlwcgnsyktns709,male,76.53517845762579,2,0,PC 17485,139.3253349345481,C95,S
+710,0,2,lmeehxqwnuqrxjtrpgcznyogycokqzdcnjbtitcd710,female,19.958451349827456,0,1,223596,16.98968007360547,C30,
+711,1,2,ckvsnzhgyuqbxrbbfvqdtpsutlnkglfdvteetgwh711,male,10.14517073358846,2,2,349242,354.6854028802005,E44,
+712,1,1,vldslovhdfvaylpislfoyfsyxtbgjkfvpmvukune712,male,59.26677486437771,4,0,A/5 3536,268.167751853313,D37,C
+713,0,3,lcospfuffpzsybdrawnhxeykuhlksstgdkglkuhe713,female,65.63133414235851,1,0,345777,29.371443361283365,C90,
+714,0,2,zgmqthujupxfhnycauwyzoingfdqnkqrvuqmeuts714,male,79.23144030888753,2,6,211536,301.0998227738106,B86,S
+715,0,1,rqcjhwkhkshaujsfulajjiufzlfrmjpgsklgtxdl715,male,41.759965399293655,0,2,239854,377.8848731164517,B69,C
+716,1,3,ooxsfcwxlqvmheorfwyvdndgidgonbwrcnptvpfw716,male,17.212014736709197,3,5,343095,331.8316584290137,B28,Q
+717,1,3,dgqvqtakvxsfuioozunofbhrvdwbqhjapdbrgrsg717,male,33.03265857966143,0,6,349213,394.34121993848305,B49,Q
+718,1,2,cseqiilacrqfjkmjjqtyyweguaqowlhnrhkpccto718,male,71.80339784981895,8,6,29108,242.43107808898117,A23,
+719,1,3,sakyfysewvwrrrkpskquawoohqxkzahdggibwahh719,female,62.43880389889388,3,0,A/5. 2151,116.31398919201052,C70,
+720,0,3,njrdctedmjxclcwbfvignuvnfgjfwohgxghusqbe720,male,56.32412740166684,3,5,9234,279.0176433003619,C49,S
+721,1,1,exbstdrdmjlatvaiaeolztiidujwdfvatuoupyvu721,male,77.56623508519246,2,6,SC/PARIS 2133,146.1218342609783,B80,Q
+722,0,2,gnzothzgirpxprfiqshdiocynhlevgieinguhdsd722,female,68.9942024276287,8,1,112379,231.09321020215899,B37,C
+723,0,1,mswxequoenoawvdkqrvcqxlkiyxjshiejedflyuu723,female,40.5468504600804,1,6,PC 17756,5.3108733330517195,A24,
+724,0,2,rfheecwfebbwhtustyuwktheiyqklqcfyrvatbsn724,female,64.82710160084669,4,2,315096,457.35358321091184,D49,S
+725,1,3,ucmdqjxetnxvmxtfmbvrpbekxuszwzfqpmfekrjj725,female,64.31076511991803,0,4,PC 17601,194.31298662346225,B22,S
+726,0,3,pmsmmprzbjyjwpjpmihnfqdcyjnfvwivvkfvdwtp726,female,,0,2,371110,457.8662612637589,D21,S
+727,0,3,yoahupzevsjjvepijhglgyykutjnluyqifbzqtmd727,male,10.916894966719621,1,6,W./C. 14258,369.16902955064955,B57 B59 B63 B66,C
+728,0,3,zrwntyfrndgifwprgnsabyawsizuuyccxpruyizl728,male,5.088854608188289,5,0,A/4 45380,440.8712622130628,C85,Q
+729,1,1,ylqgdmthzikflvwcjgdvddyewtnexiusoaffujss729,female,30.70329312757299,0,3,3101281,102.57191076574946,B5,S
+730,1,1,tuakupefkfowzekcpfhnjfngqyyrtbqjwbolstur730,male,50.60516434985921,0,3,347464,435.3786595452845,C125,Q
+731,0,2,oksndgxpqvcpdwlslltrfrgldrtgzzvycwwrpwwo731,male,,0,2,31418,157.19237209063957,E12,C
+732,1,3,esspvspwxoguumgwkdxzcclruyrlutsonpuwplep732,female,74.8468914450342,2,6,3101281,67.70350366765274,C148,C
+733,0,3,sdafoebriyvyucoksossdkiguxnapqhfbuztmvlz733,female,62.14272011078289,3,2,2626,422.40796870982615,A32,
+734,1,3,ktggweblkrdiejawiwzkgkhxnsvvkfotfwdpveoc734,male,25.425723057542164,1,3,347087,317.13560166539065,A16,C
+735,0,1,snzwtfjropnvlgatkxntscyxajdmwjxwmoejbjep735,female,43.70140320918161,0,3,370372,372.3916573905057,C46,Q
+736,0,3,zkvbcldzprgqtaiqimjcjvuluwfotgawnhmpcpyw736,male,57.530869834177864,3,0,2659,463.1016276913935,D30,Q
+737,0,3,cujeimjlyuxvbbkugsguqfesfjqvyujyztngtqqc737,male,10.201553119090404,8,2,349209,383.47928234480486,C22 C26,
+738,0,1,djytluqwsaiupaelwfaydihveacvkquyuoqlujwd738,female,58.64024825885585,3,5,14312,89.47155614529765,C47,
+739,0,3,vwxoadjoysawznbwpmcjzoygyjgwkphvwabytbsk739,female,54.20065858240829,4,4,220845,230.93980329492393,A19,
+740,0,2,qbfxuhtdodpjuiwiabrsnjvfkzutxsylzhehnwpd740,male,20.141787558946238,2,6,113510,241.29023423725172,D10 D12,Q
+741,1,3,uhvchmoyvrwweaisjveichxerzfmouypxudlquch741,female,24.113821638526293,3,0,STON/O 2. 3101286,96.24621231777668,C32,Q
+742,1,3,cvewjsuvmudjzqkjqnqogdzsmjxebdhaxhnegqdl742,male,59.82551444557491,3,0,110465,187.30969883974387,C93,S
+743,0,3,bpcorfnfqgnnexzbktrvvmlckbwlinqtggevnnqp743,male,55.863689795318066,2,5,233866,377.71527673508535,B39,
+744,1,2,vgodwkdkotjkfxyiotfnpalcmttzhagwreyssfil744,female,,4,4,35273,327.05463641820944,D15,
+745,0,1,zfxbwfescqosljcrjlhhbwiutjbtyufebnshdbym745,female,18.64764037942784,4,1,113807,211.05710633189994,B51 B53 B55,
+746,0,2,myxvcfcayxweovuttblzqkmngcinsvmyplbkmjtj746,female,66.03451401158168,8,0,PC 17604,460.2758484740877,E44,
+747,0,1,rwfnjttmiyommnkggminrhmdykkguivqdnybbuvz747,female,70.86468081636444,2,1,4135,461.81069103472737,C111,C
+748,0,1,blambglhfmapavyngysofjrequxtpiqutxnkytwt748,female,64.94115456048918,0,6,STON/O 2. 3101275,457.60233533810145,C68,C
+749,1,3,cswundzgqnacszldtqyruvijqgqbmovqvsncdrjx749,male,17.393904844038587,0,3,347742,38.748715718487155,C106,C
+750,0,3,enrubcvrgsosmavpughteyprgrepqrkofmtfowkf750,female,48.34230906220608,4,6,2683,55.1619595314997,B30,C
+751,1,2,bvdnzgonnajvufurzyvdumcyaqzzbooslehkdsjb751,female,,4,1,349233,211.5507925591621,B3,C
+752,1,1,wgnhnrudegwcikdawbhtrufkalkmwkookfatciqo752,male,36.87901016183841,2,5,SC/PARIS 2149,476.30009196719254,A6,Q
+753,1,3,wfvtkgchwijhxismijhskcsdczgruktkgzgomihu753,male,52.16241683420653,2,4,349206,237.68122679962212,A19,C
+754,0,2,kgxyrbncjqmojtepbrvjptvweyqtslfzupzkbasx754,male,42.814763126986996,1,5,26360,380.1078199666206,C87,Q
+755,0,2,dxrdjkofxdgguabnoztoiljrjfkbekpcjstaaqbg755,female,52.70567940937298,4,5,PC 17600,261.7881433982026,C49,C
+756,1,3,xyzcmcfmczttunbeuzxfgumwllvypmdwbdjrptdv756,female,19.466197116047113,0,2,31028,317.23581086167343,D6,
+757,0,2,xpticwfzdjxqpzvmxbsuktxcsdglkhgkddhunsuw757,male,34.95972539961338,0,5,110152,166.68151924515556,C128,S
+758,0,2,nbngwxtybwnuuoqgqbgwrebhxpphjwuelhoatzpm758,male,63.96731898175754,0,3,250651,392.95068053459306,C93,C
+759,0,3,ulnnroafxffexojrocttlqwegkgiempxqszjlrqe759,female,37.808731143581575,1,5,2699,456.5914411519217,E24,C
+760,0,3,oblrcuchpfycevewbewitajbtlgxpiufnbdifejj760,male,43.87621842362174,1,0,PC 17558,6.759727933989623,B28,S
+761,0,2,mmffbmyyerjzuvcsvtrvnirchlotfcjjesaqbrlz761,female,69.86828890165943,8,1,345779,335.2932602007184,D33,
+762,1,3,jkyvljcnkrpponvmsbnkzwkpcaqajwzawbteqaoo762,female,73.39288538080827,2,2,345764,55.19796858732432,B3,S
+763,0,3,mvlzpqbpayjuenjuytqixshnegkxowievxhwxjkc763,female,0.8272063633999569,0,0,28551,195.37534317670784,D30,S
+764,0,3,qvjacqjaicapfdamhuhgfkrlxdcenrochmsbfxwm764,female,23.827789264400934,3,4,PC 17603,14.436480084345389,D,
+765,0,1,deedtmkhbdettctfsiwfahpefbmeucbnfwlaokuz765,male,47.35147004092054,5,6,SOTON/O.Q. 3101310,385.86837893170326,B49,C
+766,1,2,umkqxfvqhtluqrxnhkypklvpjdmdzcbrowldfpvo766,male,77.30593439763301,2,2,W./C. 6607,153.5207041767481,C83,C
+767,0,1,lfqpfjkgelfrtamfzbnayuvhdhjkivvpvmnfqiux767,male,26.10740690761908,1,6,31418,447.761391790473,B42,S
+768,0,1,ltfayilockdyzatwdzngbwqoxigimzyhtkqdvnux768,female,25.587745850470917,3,3,STON/O 2. 3101274,8.182850287393107,B57 B59 B63 B66,Q
+769,1,1,lxteqeylpkuowwboluewwiedvdtmkehigvhpgzur769,female,68.17771105470509,1,6,C 17369,351.69253949149265,D,
+770,1,1,oldagkceobojryamtqgwlkrgikcqhnvrnjjjldwv770,male,4.575478698563086,5,1,370129,282.40333143301,E50,S
+771,0,2,kvijdqeympghdkwdjchnnbesqzgljghavjcmlyow771,male,65.55107371688472,1,4,250647,292.90498584897836,T,S
+772,0,3,kqbwmovzavauwvapqdoutydqcrcrkoydqdkrxgpf772,male,5.23296389462443,5,2,244310,350.0339105327394,D20,
+773,0,2,ftjiltnyvkxihhqbryackxvmxjnqfjokuweprzid773,male,30.360043606174948,4,1,228414,178.3452841198936,B20,S
+774,0,1,wsgdjknsbsndrjxshseyewmrawowqyglelwiduzl774,male,1.1671966568498335,0,6,SC/AH 3085,224.44214367836906,C101,Q
+775,0,2,nbgreuexeweqixahpagufvvoyemhpwmexdvxslso775,female,25.09625229254985,3,6,2671,458.1544654864138,C99,S
+776,1,3,ediaimuuksvobxyjjtuxkptqbxpdsmowxvslytzs776,female,,2,6,345773,54.27886841466237,A20,S
+777,1,2,crtvuutcwhuzkuqshwsxswueuhaeksgbgewmshya777,male,,3,3,347083,87.85858152811298,B86,C
+778,0,2,yqnyzrvbaizixayxxzpgfwawajonbzdsegjshflz778,female,78.69754549976285,4,2,A/5. 10482,282.59541815300383,D15,S
+779,1,2,cjdqowexdtuqfndymaivyehhrcgeadftskqumidd779,male,35.17896297125487,0,4,PC 17318,6.967528489371965,E31,Q
+780,0,1,vjbidmqinukswqaqhmuuaxkslklhgxxaaiwdgose780,male,1.6623715094830636,8,4,19928,419.7076852737583,E58,S
+781,0,3,qtittentanirssopwpxbvfypxckoahhpsqjjzkpz781,male,75.46391771534539,2,4,3411,34.42393896120815,C148,Q
+782,0,1,hyedqveuhrlyrmcbrrmfutomfledpwasiyrlxnsm782,female,57.139209275955075,3,5,P/PP 3381,86.4232961732694,C23 C25 C27,S
+783,1,2,dyvhezwhdwligawbioqosbdxrxkpbuxwluoropnq783,male,17.704538757224316,2,0,C.A. 33595,46.188526817978826,D15,S
+784,0,3,rrdmyyflfkgmczwrmfpwrsaspsyzcurfwuhyqdnf784,male,15.191959473280676,4,5,12233,363.4858768866873,A24,Q
+785,1,3,raqombflsjcyqkitvmzazykuzkuwvcbgfaojjyqt785,female,28.450077044388927,0,0,218629,21.120658817852465,B96 B98,C
+786,1,1,beolulmracmzfaulfrrbbhtkhlcdmkocdvxiqzmj786,male,43.927115987802324,0,4,2686,193.19731984966148,D47,C
+787,1,2,jggzplglprusufpflddbjqpmnyceiqtelbrykhfk787,male,8.665831834782962,4,6,113803,111.14329103385283,C124,Q
+788,1,1,zgoozvmawkvdvvvzenpkxfibdnnacximywvwnkch788,female,53.98104468351455,0,1,336439,244.69446544487153,C103,C
+789,1,1,dqepaknxnpwyakvjuqnxxutzmfxvcgxcxquybqec789,female,55.0302026024952,0,2,13049,183.45031433503306,B79,Q
+790,1,2,flcvftxxromgfqyalpqkefjgawaegghbnuegzjwy790,female,28.461877300704515,1,3,349248,473.788076775202,C68,S
+791,1,3,ousorlzsptipeuausduuvybcmwdchsqwnehoczno791,female,27.51302168615033,0,1,250648,487.27510575288574,C50,
+792,0,3,hvooucmnbycdnpdblfdamywarcijfccmbplylhtm792,female,56.04201661303612,4,0,350046,252.6545065604908,C50,C
+793,1,3,rcbhxcfvnimfxlgqgdqloaxwbdquqttvzpuvossp793,female,18.168375946053807,0,6,14312,162.1926923145073,D17,C
+794,0,3,mbewlfflkobeadjdxkbcwdsunipbuxzhyybuseif794,male,48.63801394878824,4,4,STON/O 2. 3101292,316.2106824502287,C62 C64,C
+795,0,1,zrkakdseqnrjshorpgnqmlfyrdvdtdxcigeglwka795,female,72.36619696571316,3,2,SC/Paris 2123,384.12271133410195,E25,
+796,1,3,jeurbcjgahtgbqthzsaqatcvzefkmxuirbupgkuq796,female,12.749848405493116,4,5,315096,15.71456421742313,A6,S
+797,0,1,ajhtlvjrmzknljijsvjgewaqaeojblnasyyqftgq797,male,47.23469122768904,5,4,250646,318.09632915685677,D15,Q
+798,1,1,sdqpkbzjvvrffzffcqmrmwvrcycerjmfmexuucyp798,female,14.004357124056238,3,1,250653,327.6513462743436,A26,C
+799,1,3,rnlzvpeaczqcjfjgcawbazbuhgzaxzyihhdsejyz799,female,47.84663271547395,0,3,347076,52.96625026260523,E33,S
+800,1,1,nmgwdrtijruumtopzemxusyqftvreoftoevuzydu800,female,37.984305669048126,1,2,113059,373.2447381271064,C118,
+801,0,1,qjlsmnivhobyzsodxscupizekrvetbhdinfhcyyb801,male,36.537953231065394,8,3,364846,13.338515362749527,D47,
+802,0,2,bfrydommlzdiszlntyqnmocykhubqswsthmtnout802,female,22.013776702734127,0,5,330931,22.061616916527434,A7,
+803,1,3,oijnisbojekcygwgxcxvjfcusfposqupcbnwpgsx803,female,23.318460187940293,3,6,31418,66.24929762660898,E10,C
+804,0,1,gzjluzkdjwlsfllljuzkrbspkznwjophykszjxgh804,female,31.5729376004234,8,3,C.A. 29395,473.5272414141129,C92,Q
+805,0,1,kjcsbokyaiawkhvipkmurgqrxyhvaohraodfwflb805,female,64.24058036069965,5,2,383121,448.8061649078117,D49,Q
+806,1,2,dgcjsjjensyhohzngsijtkcvzepkncgxrmcyqwzl806,female,52.864769387808956,4,4,SOTON/OQ 3101316,301.81050111722186,C111,S
+807,0,3,hzuezejkxtvwxnvaluqbevoijbbzqbjhgibvqrgj807,male,50.117763525602086,4,2,29750,495.6098692722803,B28,
+808,1,1,nrjfbemjjxfootehgujnbgicmxousjrddfseqmhr808,female,56.63565211676946,4,3,PC 17757,449.76841020963644,E34,
+809,0,2,rraornkhzlvjkkjdgkqbwkbhycztjlbffcyflttd809,female,15.82307762228791,8,0,A/5 2466,299.90189462612915,E77,
+810,1,3,exgitdenotxqkcrgbgohhvdigfjxmzcmpfwkaxvi810,male,24.03321987512723,3,0,3101265,179.20136647343747,C125,S
+811,0,1,armwtgbeultjosxzgdgfgnddbkwryovbeqeoncgc811,male,5.67067645644984,1,2,362316,171.4684934454831,B42,C
+812,1,3,xoamnckticbtysqervcrebkeqsablxpuohdhuqyy812,female,10.108243012874489,5,2,2667,357.6537143827688,D48,S
+813,0,3,rduncnalbirosrbxurkpzhuiuwxcezasusnwquno813,male,62.32151812232741,3,1,PC 17597,61.45472420763424,E44,Q
+814,0,1,gywdqueaqlwlsowlytiwaosmhunlcrdyvjnxtxux814,male,53.283027542721605,0,6,13509,41.211273949901894,B101,Q
+815,0,3,tfgupvvqdtugwsxmhjdphuzyrwddacgpndgsywhy815,male,46.3419402001916,0,4,244270,326.48933590063086,D9,Q
+816,1,3,qhnddmsgbctpwqpxixxcprcxpleilqbprninvooy816,male,76.82151529594019,1,5,234818,265.08978323699415,B5,S
+817,0,1,ribljbdqobbdybbesspkuvgyenlfskllkxehprru817,female,13.537335538830838,2,0,330877,314.292829052865,C106,
+818,1,3,aakwbulgqcolvwhmuqlrqfbbfampbssintoyysjz818,male,18.09385707645377,3,2,7552,306.701600477087,C124,Q
+819,0,2,zhyuimbgoldrtpemriuidghvbapucrcexabewgyv819,male,58.53198154081856,1,4,349212,85.77758657550802,E17,S
+820,0,2,klxuedhdbkixjdcpzxdyoxyjfnuzsfgxkebmvitp820,female,42.34340063879716,8,1,347078,25.613966932931636,G6,
+821,0,1,ljmrkjzepczhxkrqkdfxjppofjhgpzquslqxfxyw821,male,41.24847115942435,0,4,110152,354.8461455875899,D10 D12,Q
+822,1,1,wlnmpnqrgseyymwobbmdzpsutruvsnssjryapvwm822,female,76.94328395628844,2,1,336439,492.24764022081894,C92,C
+823,0,2,gnbhdtqmfzlzyzmyvpvqztdpjyxcntxvkrwkdlcr823,male,68.53542761183213,8,1,113787,354.2300245813217,G6,S
+824,1,3,multlwflquasdamdlamnzittqhtiaozikhuucycb824,male,55.26452117721496,2,0,243847,25.19704494289966,C45,Q
+825,0,3,xkixbumpuoldemzuopolpzhmavgwzapxgcudbcjf825,male,32.64552614976973,0,5,SC/PARIS 2167,493.80389420127364,C85,S
+826,0,1,emrxwkxrwekavyyebxvoqmdtrokrxgofhvveggsj826,female,7.315149439587676,5,2,244310,452.5007899122398,D49,S
+827,0,3,fgzxhxttfxuglxzgvctpkoacvugmlqlanqhjextq827,female,5.388870535043473,1,0,PC 17558,455.19397154666837,A10,S
+828,0,2,isqbvzqacsmtxwpguowhfsvnwyaaiivjlzqanjco828,male,25.426252239359012,3,2,C.A. 24579,2.133389990608514,B80,
+829,1,1,mjoelgjltwplkujquatmjjqjsweqiwgvxeqjdxoo829,male,59.054875979949976,5,1,220845,379.6188204062356,C83,Q
+830,1,3,ptsirbgjhdcwoahzgopxwhhlxhypgiehlusrkurb830,female,38.85563113026039,1,6,350060,443.3789303604313,C83,
+831,0,1,vjgsckjwqejqxsbosojqtgkudwklnaoyngaidrmm831,female,63.05710586939641,8,2,13568,479.1912810262296,D6,
+832,1,1,tbyofnuqhdyhefysxolwnlcraalegcimzqimcbxu832,male,38.28131129094277,1,0,54636,485.43545773552063,C7,S
+833,1,3,fjahrxmtxrmgutkpjbrlvczvgbltxpaezhoypycc833,male,67.50234226644811,1,2,364516,410.7627288423242,B50,C
+834,0,1,kyqcevnlfycetxtlmintukxwwcatsaiksycsupox834,male,68.547617893783,0,0,C.A. 31026,348.68389853578157,A26,S
+835,0,1,ovxtvhsjwepylmjurggjgcmlbwjerxubmowiyvqi835,female,,8,2,347069,7.490371452492378,E63,
+836,0,2,ckzlwuxauiipbjzmorrahhkojbktxmfabpodzugf836,female,6.966238709436484,3,1,S.O.P. 1166,131.0194522842945,D6,
+837,0,1,zfxvytwwgurycbhlxazatyfxrrudvsmddkwgzniz837,female,24.764494119392367,1,2,113572,402.48210007745917,C95,Q
+838,1,3,pqgkmhighsalpkugismsomjqwfcnxyawjmcvoejv838,female,39.16465052185066,3,1,26707,127.5455471019238,D33,
+839,0,3,txtrklaheqxogadlhyqvahhfqiyhylwcyjdgkffp839,male,65.51208164794319,1,2,392096,38.750288038291856,A16,
+840,1,2,sndzlbgslxwnddthcutqfqfpsekbgblpwptjlhdw840,male,3.1053558932926464,2,3,330980,111.33795258125825,D35,C
+841,1,3,gooqpajwjklrxbewubwwaaavcgzlsvogwpleuffd841,female,19.13516249158286,0,1,231919,242.05222564283414,C103,
+842,1,1,wcxhapeakhaobojchafuzcoiflgfmkhjskpjfdvk842,female,3.048561052953771,8,2,13049,189.93626246445254,C85,Q
+843,0,3,gizmehgruqzaupotybavmchkhhzgcsokcmazjwwf843,female,68.94457920372443,0,2,C.A. 33595,13.625443992358276,D35,Q
+844,1,3,mdmkfecgwbnrzcbuhafyvzhztlacxfcrytckmgmn844,female,,0,6,347064,369.1120764477486,B50,S
+845,0,2,mnbixesozxfxbeyydouwthibvoupqixdbqkcssta845,female,47.49873174793529,2,4,PC 17604,386.30575802475596,C83,
+846,1,3,bfadeujshzkgbzsukrqickbyujiqnipoaffaathx846,male,37.18650149185798,1,6,65306,383.7199114215342,C30,
+847,0,1,gmdeujgosixdgdgbvnbhbkdbpioxzwlewwxapssq847,male,54.208731969607,8,0,330932,256.0802521166694,D15,S
+848,0,1,guajwfxhxdugyvbrbeqwykfdelkghqyalnlkmrwk848,male,38.915415455776184,8,0,312991,132.54301085479284,B49,Q
+849,0,1,xuqdltmedhkjsyjowtpttrrlfiteeucbegtujwjm849,female,72.97150703246855,1,6,349203,57.407510654045346,C106,C
+850,0,2,gxfhovqltygbcltlvpfppsrovzsgcywtwpzefmgm850,male,58.6268481457531,5,1,PC 17610,36.809733361659404,F G63,S
+851,0,1,nvyhkeowxyjyranqgzatgzhufjbmnsnujfqpemuq851,female,37.37230073998137,8,3,693,94.74844433207308,B4,S
+852,1,3,cvaymwxpaeykjctxkwyktevogpaqklncercuaqna852,female,13.038930474439777,4,4,110564,308.20046628563455,B49,S
+853,1,1,fvmkpmxakjiycyvddcwrfytwfkygqmmiqwlkecnc853,female,23.536990588707255,2,3,372622,123.8683295883111,G6,Q
+854,0,3,motjpyyzkirzmpojhpmckcmqmsvascvrszxozdsj854,female,18.536875502137818,0,2,SC 1748,298.1354629701784,D46,Q
+855,0,3,ktvhtzofkxmumeuynrrwpcigdplptjqpxczfpffk855,male,13.66165324759664,8,1,384461,365.5287877629535,B101,S
+856,0,3,jtsqmjhidizczontucoiectfbgcnavqcwrytbeuw856,male,54.47642973893085,4,2,233866,252.85667517623125,D46,C
+857,0,2,jsglbqlzcpaticbjtgacntmnmltpbunhvdegbfmt857,female,76.12161457536318,0,1,347076,298.71889935865715,D46,
+858,1,3,vsnfvgaargjplyojpluwmicovepzvqjyewzxmerj858,male,28.789565147049345,0,2,19943,59.35139817372656,D20,
+859,0,1,wtpbbjiipclkeqabvoildmzhdwrqzmfmddowdbhk859,male,21.88901620890731,0,0,3101267,500.7466150000327,C124,S
+860,0,3,ootijtfjuyojqbhdupqwffeltexvlpqomanidjlw860,female,36.134535429688896,0,0,SCO/W 1585,101.9339797503508,B71,
+861,0,1,rornzhcjxyspwaquhonuudcsvplmiyxpvqxluyxk861,male,42.24117810662909,4,1,SC/AH 3085,206.17236116035556,A5,Q
+862,0,2,alpgophavdxsclirziipjaxzzuhhwfqxhnvkliuo862,female,20.61921923996118,3,1,2664,69.38120891098663,D11,C
+863,1,1,iwswslaamvjotpxizkcbxbiywrlexbbznvqubckg863,male,19.38009660807759,3,0,29011,201.07418976818937,E25,Q
+864,0,1,fbqratniaelxxdqnltmjlehiaqxejncbnhfimuyd864,male,79.13036516241183,2,0,350048,68.96762686738813,B101,Q
+865,1,3,lrxeikcaysepmgwuskdpdgaiitcwlxaueywcunhv865,male,3.502937851917133,4,6,SOTON/OQ 392090,490.2995160736919,D20,
+866,1,1,shsujywgpjkgerbcbfabraojlblalhggziodoleg866,male,14.62303269339281,3,4,19988,322.6943789317333,E17,C
+867,0,3,zptraipieggcbwxvjcgkkgxnzbwzigggvalzvoqe867,male,38.99918527798259,1,5,2624,96.98277111347002,G6,
+868,1,1,tqggxvmzrgkpcfzizckzeyorepmjritvgmqceowa868,male,25.143349128583985,1,0,PC 17597,369.35338544013865,D15,S
+869,0,1,omoqyabibxdateaiuxmujakkicxwfspxbyhtzdyu869,female,59.040858591167186,4,4,347082,91.76913069185325,B38,S
+870,0,3,ovoqdgytvcjpplegbbpqjsewzrxwenfxrwmetxdc870,male,75.28955629563221,2,6,PC 17759,32.10941171334252,E36,C
+871,0,3,xmpnvvgxgcojakyvsgkoeubgdhvoegjaixptboih871,female,27.31790686354302,0,0,236852,8.011510739117991,C45,
+872,0,3,leewwprvamoodjlcbkncygpolfvtlwtkqqsiicpj872,male,,0,5,349216,430.57606472739593,B42,Q
+873,1,3,lrqzfmwgvtxqlxmjfndaoxuzhjgerwmzgfrqktpu873,female,13.763426899889247,4,4,28206,319.93672946199666,B79,S
+874,1,1,eswyckbawxglytspzsbuyokxrlidrbsowhpfggln874,male,78.37270061324074,2,0,2697,139.5792679214443,C95,C
+875,0,1,dyqotjrknipywymltryubohkrfouyseujbzdclim875,female,6.901748653452069,1,5,345767,438.62766889775116,B38,S
+876,1,1,pqebmkcevwsqgsahxlcpfhenxdnrrzakglowaruh876,male,39.81532240770154,2,6,343095,470.68889878700617,B71,S
+877,1,3,eyacxzcgjdwrxapxfmrvwbkmwegriahvqkteerpp877,male,32.68178728929259,0,4,3101265,243.8871701008846,C148,C
+878,0,2,hgyymvjencurdajcqomtjoxdepswynafifqrdgzl878,male,43.52822247421378,2,6,S.O.P. 1166,5.917718231883141,C52,Q
+879,0,3,lyyptyjjpyjoiwrgcgminrmfswibfkhxcawhhohe879,male,46.28368708714831,0,3,65304,328.0939690018319,D,C
+880,1,2,nswtaomhhzncvbszagsqrzblrczmounafmwjyvko880,female,49.594925585676165,5,1,54636,112.2948937947198,C101,C
+881,0,1,bcphzhjpctixamfengqwiymjrparfbkzsusutwly881,female,26.106843945043643,1,2,2668,236.65740422627422,A24,S
+882,1,3,hviufzznuqxshmhzjsxokvtljsznrrubvsefujoq882,male,,0,3,349256,212.82917040514343,C92,C
+883,0,2,alcilzrwskhgsekldcnvbdgbkalboytztdmqudfd883,female,28.32327665024541,0,1,A/5. 10482,482.21611710777876,A23,S
+884,0,1,occttuoqcrqtleglbliffpolkdvcmxgcuzrznney884,female,72.91767282388675,3,5,C 7076,74.3938751860579,E34,C
+885,1,3,tewonpjostczkfrnxaolcpwccglmxzzebxvnsrxg885,female,46.7863456484506,0,4,29104,229.53111142584882,E49,
+886,0,2,unxrjrfsgvcdixcshcpnxuqjumgakzlbxgeuhsgt886,female,78.65051928414296,2,4,A/5 2466,307.78673854195864,E58,
+887,1,1,eirauliycevwcdnwxfollsvkomjhqmpluqkrapuc887,male,2.38840708339924,5,6,693,301.09315884084634,D11,S
+888,0,1,qvmaqzysianipgkvenmtsfqfzyvrwpqqjemgaqzh888,female,28.08728367889674,3,0,19943,448.9408607891598,A10,
+889,0,1,usiorxugzbjuodsfvwtffieqrtdizxtiwggpvtdy889,male,10.291561137338347,2,4,PC 17590,284.97184822871054,C118,S
+890,0,2,hzeoployshwtqnqjzmxzlcztslbvvdvyabgvbyms890,male,69.31218182133219,8,1,345572,236.86345749845233,A36,S
+891,0,3,kpcnxyozictuapyfvryisyaglhnygtaixfqxsfrq891,male,47.56231995915946,0,6,347078,493.9286618919479,E33,S
+892,1,3,ykrtlehclkwvywfbvqwsbmlnfcwbzykuhrgotokx892,male,41.241190873301704,1,0,345767,368.9850406096476,C82,S
+893,1,3,ykubqlojingyhxvcydipxxeoylpltxdfpiwfaoqz893,male,30.67753354628368,0,6,349248,63.29113264455059,C103,S
+894,0,1,szdiueaeninakatmnkdkvtwnydoguhrkrzaosbzw894,female,15.155903613390434,2,1,362316,254.54535426940134,B28,C
+895,0,3,hzbqlvjfnswgswgbhwrbgawuzxuznknfkcznvnde895,female,39.500529572494614,1,2,347088,257.6594499827477,D35,S
+896,0,2,nnitdxsvpgfwdqyaaxfdhbwapnsmzwpffzusgyco896,male,35.37698225697716,0,3,PC 17590,95.01578713523331,D30,
+897,0,1,wjbsnmgnhlftkhqwqxzuujbxlcwiaglopycqaavp897,male,37.75930338311406,2,5,364498,457.35899461496115,B102,S
+898,0,1,zoueqnbidvstesklscrgxlyslnequbtzljnahzzx898,female,20.55047843742573,0,3,324669,9.15275905628927,E49,S
+899,1,2,ficqvpyjjozsfzcaojpfxbxcgobtybeudwzccyud899,female,48.32034741675862,5,5,330979,288.1651223947702,D19,
+900,0,3,rzqtktnlqbcenritjctwrygmqmkwwxqybfwejpli900,male,11.268585883487761,5,0,C.A. 29566,415.53250009778094,F2,Q
+901,1,3,keenfcsvwomgzpddggotqxhlaaktmlykzseavafv901,female,20.162570006617862,0,3,29106,187.02165473614042,E34,Q
+902,0,3,eqapdyqvlwymodtpnvjqkntgzheluuvjkaofuikh902,female,5.764455024225478,1,4,244252,106.1878601652363,A34,
+903,0,1,nlvfijctanythfzaeasznekwjepvaonpzxqxapel903,female,14.112515295242472,2,1,113784,167.83079708308165,B20,
+904,1,1,ibyfsnsoxndqfsfkrmzaqxmdeggazyduynvvxgvv904,female,51.05595030463653,1,5,PC 17599,236.9624888830001,C47,
+905,0,3,lyouhekjlhosusjpsekhpkygoayvnvipxatkzqnd905,male,22.932510527252592,3,6,S.W./PP 752,77.54746786944234,C7,C
+906,1,3,qgagatzsbpgylvclvsehtjtgnuvxpllaislqdlvw906,female,29.30796411557838,0,1,14973,236.50738503685002,B71,
+907,0,1,afbasfqlgkhnschwbluxrvozyozbnpvhlwfuaemo907,female,11.050236101433038,3,2,28424,379.6521295048183,E40,Q
+908,0,3,sricozzoicblflmzbemnblqxtlfwvgnqkatxamni908,male,,0,4,233639,61.92446759582339,D49,Q
+909,0,3,mfvuzkgzjosvaoidcpmgnyxwmpgdrloewhdmoeii909,female,9.591206727486474,8,3,13568,330.0305911258827,C148,
+910,0,2,qhrizbimwoblmnrmctqxgoadvddhathigsvfnehp910,male,25.711948110210354,0,6,PC 17759,24.172092078096792,E58,Q
+911,1,3,xdyhcmtybnbdvjqliynvuobhkrhzbavzhnehpikl911,male,34.398723441641856,1,5,113781,31.850182722016605,D30,Q
+912,0,3,pvsflsacarkludczvfumvxzahcrexqgwgxlfidhn912,female,66.99787670540447,1,2,STON/O2. 3101271,91.1938918946263,C111,S
+913,1,3,qpwrjrsawkqgxqorimzkjxkindxgywlbsdkqigqi913,female,48.76968930582894,4,5,11771,432.43317524914863,,
+914,1,1,oaqoyoqgrtoatpnrpwfbqkbwhmmudaojhoathjfy914,male,16.423487112143004,1,0,PC 17582,14.893930812832032,,Q
+915,1,1,hmqvdourndnbtllzmirzpupsckitevxyyfupzaxm915,male,30.771135388895907,0,6,349247,106.76941261675069,B18,S
+916,1,1,waxpsexcsfmvmvsqykgivdiwabrthfaxlmpnyhuf916,female,28.370742852909846,8,6,3101296,108.81752444537427,C101,
+917,0,1,kvofglkinxctsyzkoorrclcrjgcsycyzdsopvsfc917,male,52.32590873480964,3,4,29103,50.91591194792336,B22,C
+918,0,2,gaqpjaxrheiwmghkkapftrbjthgodtidnnapoxkz918,female,61.00336101977737,3,4,A.5. 18509,494.3819716489847,C7,
+919,1,3,njmzwmuvujocyquexithiuxadfjfjgshgdgakydn919,female,,4,6,2695,124.69331873651106,B3,C
+920,1,3,bbvmavhtmlvthiruvaeowqlqnlcomfdblwkuqhog920,male,10.97977607887843,5,6,367231,148.4477017502666,B5,C
+921,0,2,pjbaicrhpuieqpaqrrqucrklvginmlupazlgflbp921,female,12.62178294369271,8,5,349204,454.4868414599765,C91,C
+922,1,3,nyygdufvflcmfghqyxnfyibdqsuhmngazcysdupd922,female,40.45831254938595,0,5,347077,197.80882494477007,D20,
+923,0,3,lnmnzjdzgfwoyqaulgoysagwnbsxwrpyvuwccncq923,female,40.098959019362624,1,2,PC 17760,148.31883881177825,B38,S
+924,0,2,qxikyxviekkszztxxwbhepykfxfuxnrypakqbirh924,female,61.78673586435281,3,0,349237,482.80386507209585,D35,C
+925,0,2,siqbswchvgnajnujhclqbreeconnsgfpkszlwapx925,female,11.928974728357588,4,4,C.A./SOTON 34068,360.22804732624155,A36,S
+926,0,1,tesnqghvlowwqlqohceotasbqhdzwdyouqyqczff926,female,9.239550125848048,5,2,4579,132.38099365701575,F E69,Q
+927,0,1,zpiyccejobritymmyzslzmaszkjxqawzgydtldbh927,female,22.046713241049922,0,5,113059,12.949871722961465,C22 C26,
+928,0,2,cwrvteekkqbnpcrobsbxlvyjuexbktltbntwkygh928,male,73.46662180062575,8,4,A/5 3536,184.75844943962719,G6,C
+929,1,2,inkjqqkatbkrxusmfeljipbjbdohxnozicaxlifu929,female,24.998026497883146,1,0,244358,397.90605814799585,C95,
+930,1,3,rnduhnymrltzhkixuwejohgoinblpqcvfoeviytr930,male,9.686347666106876,5,5,PC 17761,345.647565673581,C47,Q
+931,0,2,jfhoolrliswgaztnywguajczhvknsfdxzwutvrqh931,female,44.13646056259157,8,1,113503,28.863895751640722,B20,C
+932,1,2,yxhhxayfqkmrefnrgipjttdhjhskvdlollveyzdr932,female,71.03654254997478,8,3,28403,335.21600041464507,A7,S
+933,0,1,sehyscglkijyagsfgmhojhtkijeqgmhlgwbqbswz933,male,45.71163708286979,8,2,11813,307.6960234007832,A31,
+934,0,1,xhsvfqvjbekbxfqmvqckcscaxdggjbduxrvtbisy934,male,37.85954276447733,1,1,347067,97.98388502409205,E38,Q
+935,1,3,nyczopmqagdrieyvoausmniryjlbpxkpdmxqfxci935,female,37.28042504569601,1,5,C.A. 34260,53.326852177941845,D15,S
+936,1,3,qpnqyftqmcdducfzbxrhkopgzilnwrchkxasqife936,male,50.28218864414473,4,5,2678,306.4129597810209,D19,Q
+937,0,3,vndnpbrhpxyynvepagbbfgnwvorlplxticqnjlks937,female,47.11609927341281,8,2,2003,435.0656493471459,B78,
+938,1,1,wenkrutmnioxrthioaoldpokiqgrusnghvwgwcfn938,male,50.900166884071645,0,6,28228,300.8831631116429,A10,
+939,1,1,pidusrcyowdmrkfhgkuzbvvwlyxgwuwbotwlfcpq939,male,34.092883694823115,3,6,C.A. 31921,498.2499652965065,C32,S
+940,0,2,qjuptelamsuugfknnmesuigixezjcfmrvsdwvokp940,male,12.52387546688359,8,0,19943,160.7634841446835,B20,S
+941,1,1,pynnhbkpdpgbiulevlejrolcwumprtiabbeaeljn941,male,51.83467956206059,8,6,248723,343.57955096702074,B86,Q
+942,1,1,ciazlaefqfsmaknkchchhkbcrosoazxsugxulgrl942,female,61.73214760251925,8,2,113794,495.55793113783056,B69,
+943,0,1,rkyuvdvjswojwficaheikiaxcbcxcnnijhqyxeid943,male,77.57399919184047,2,2,382651,445.63149859246386,C103,
+944,0,3,kgrdsdvstxogwmqgcslxqkmhoybixexrautqpscg944,female,28.28537514555235,0,0,315098,402.84946522723436,D10 D12,
+945,0,3,livhyeiqzussycjaznpnuqikqbdyenddfxxlrwzd945,female,60.65500608483194,3,0,2691,253.41150189546443,C126,Q
+946,0,3,pekcjaaochhdqbexwbcemxdvgzipuxfvzplpyhdb946,male,63.562167748235204,3,0,4134,260.20470067875664,E40,S
+947,1,3,fmzzortugblsiqzigylumynjrgpmwecioozslkgb947,female,54.19194575820541,2,2,28551,31.832821175348432,F2,S
+948,0,3,vtshrbtiersffmntmpkpegtwhktyqlohbzkrsrho948,female,78.93535824516204,1,4,54636,312.77433570057656,C126,S
+949,1,2,nxhddzpuqwgdhbmmouokggfzwxepjmjgqgtbftgc949,female,28.862560020118337,4,1,C.A. 33111,1.1616037408840154,B30,C
+950,0,1,mfhnpemcrnnozbdbgfuplhrqpxfpbsxmfbsfvpiu950,female,41.52327295548124,0,2,244358,21.881594979961548,A7,S
+951,0,1,xhstqsbwsuiengcjjvkesckvdmpphjdgsefyboeg951,male,11.720903358464161,3,3,STON/O 2. 3101289,192.41228950495642,C106,Q
+952,0,3,eiztfxapsxtoqxzlxijzqiqzrjnepohaycbquhrv952,male,71.32840025576498,4,3,223596,334.7311737269914,C32,C
+953,0,2,ixgsvfnzrqlsflyozzuhkwvxunhqnhvdrqrofbye953,male,1.4019943927151515,1,1,2669,293.2125400450132,C54,Q
+954,1,2,dyesvadxetgjlhmijswdiurvbzbsnfngxqmscems954,male,20.402439751857298,3,4,234360,114.0088933280002,E25,S
+955,0,2,xdsthhyhszauumjdycwnaciqjkxblodichmzxmnj955,female,55.35593208773796,0,5,29104,45.54493762836948,B79,S
+956,1,1,yplpfljtmoeohfmnulxpeidvlfobpdlthgdcqhqe956,male,52.818830296051864,0,5,347071,96.35368728719732,D6,S
+957,1,1,fslomywytervhnglxtfpitsdkzrumjrselkucsdf957,male,3.554184259249043,8,0,349207,182.76035181769907,B22,S
+958,1,2,insmxinblbspfymjmfsxdkmhcnpzlmscppyxkdbn958,female,70.78328007571284,8,3,PC 17482,297.8393941349897,B101,
+959,0,1,urdwfyzdmmqfnhmpgjxaddhvsvxnqvesrmslqbeu959,male,60.77472443127705,8,6,PC 17610,397.30325854671656,C118,Q
+960,1,3,sjhaplxcvxpqflubiqsfnqjzznfbyrxexnicnrvf960,male,4.7113063131625825,1,5,244367,0.3456115549214909,D10 D12,
+961,1,1,oywuvszttptfratthqsxqacboeftjdfouauwyqio961,male,16.04811708166079,3,0,363291,413.64782896151706,F G63,S
+962,0,2,vwijdabxrauytstxvxppxmdqmxnrzbkgktmwkhml962,male,22.693958142790628,0,4,13507,17.08229597341244,C78,Q
+963,1,3,vpmrqlvruyopbmpbvhuqzxvwjlkyalaprddoksgr963,female,22.78400997859186,4,0,345779,86.2512818842842,B28,
+964,1,3,uzzyxesatyhhzgtkuvqqnflbjvqgntehjorhnqml964,female,49.988439463492625,2,0,27267,229.6178883876623,B79,C
+965,1,1,amywilpwtnuctgvkupwbsxxgpjabhidnskhcbhwo965,male,24.89113241876539,1,4,2697,371.4835080840445,A32,C
+966,0,2,hhkpuuisrqkkfqmmztkrtwaatwdzvsixdnlsfcue966,female,14.752238283614474,8,2,347074,325.0288982844794,B101,Q
+967,0,1,ndblicvnzferyprpftepcmzlqfatlaazgdgatson967,female,13.36158958966923,3,3,65303,464.51909092290714,C87,S
+968,1,1,cljjfrqomzuuvutcurejevtoqsgdrjfjsbeilxfy968,male,43.4166548362938,4,4,113794,370.9122122618877,E58,C
+969,1,3,zpoxjrkyyeawojrzahiigwbgvfxzgqwpapewfaju969,male,19.25148872117075,0,6,PC 17601,44.42205330113555,A32,S
+970,1,1,ytctkwodmzxahkeqsjdhwjxmevzibjalhspfqlhc970,male,48.2764961292961,0,6,6563,303.13191000884825,B35,Q
+971,1,1,xuleqijsuoprdrmvrsumonliquwhssgzkbkymcbn971,male,55.857111155377595,0,4,233639,235.66137571996813,C22 C26,Q
+972,1,3,dfemlkfwpianigxclftulkgrtpwqbcxfmehfrolj972,female,64.22850155629186,1,5,SOTON/O.Q. 3101305,420.030705145821,E24,C
+973,0,2,fcihuvpjjcspbunfxbojtlielmnvfffbxuohbqlq973,male,,0,3,347470,12.13008568626676,,
+974,1,2,pgqjnmddqwjonwenmqyivwdwilyzwwjsckmmxclv974,male,52.50359526962739,4,0,WE/P 5735,293.0618418050732,D33,C
+975,0,2,zcxtcrslihmhciwswmhuxfhlskedxvthnozktzkp975,female,53.311790817837995,4,0,237798,114.64497253616346,D49,C
+976,0,1,xtestunoqakzdjfumsvqkxvilovdhxjsxwbsuqsj976,male,72.64206925161069,5,1,349217,443.05973628216464,C85,Q
+977,0,3,mizsrwbfuakyeifxwktxfwkliwthhombxghmlklf977,male,9.317621284925162,5,4,2668,302.4976225621399,B38,C
+978,0,3,lngqvdqdqxkrbntyivwcsiuvxlhdxdzthrbgguoq978,male,25.70976595518538,0,3,2686,253.93796466777525,C93,C
+979,1,1,eqgovafjnjijmocsfrgmwehdszevnjpzmhrdqoig979,male,59.05255336779431,5,0,350036,393.1870632022685,B102,S
+980,1,3,ttoropscxcfdvwwkwtjjvtydpustjsepbxtrmlpr980,male,49.77834650448332,2,4,SC/AH 29037,221.2713970118421,D19,S
+981,0,3,ncxwddvbsupdzwpxpcnqbtcqfxfppiyquyvvvwqc981,male,49.24169238405248,4,1,C.A. 24580,60.985257928941536,D35,Q
+982,1,2,gekerekrxwmwiqmdruomilsnfhqhpyjvbxlryffz982,female,58.0849140382845,0,6,4138,117.29141724526943,A26,
+983,0,3,tcmmxmnypnqmnwbarqddnsizhpoeeqajpkyyapvg983,female,57.68812854090948,3,6,349241,248.36538555576496,B102,S
+984,1,1,nruzbobbmuwhpnmqlerxramrbwxffxezcbrddshh984,female,53.38353074179762,2,2,SC/AH 3085,397.09397165750676,C52,Q
+985,0,1,ouwjleiloyjmwgaedztmxiopjnifvqqoadxnmahy985,female,71.64625525665177,1,2,347082,350.294384618587,B69,Q
+986,0,2,vbztxnhwwthelurcbqkflhakwaeestpubowifxmw986,male,74.23223438636826,8,0,PC 17597,45.01185367301111,C101,S
+987,0,3,lysmmhcmlejnmzlgxkkvbviwmpdmwywkvljcdnrd987,male,60.014786166168605,3,1,F.C. 12750,252.15038891612738,B41,S
+988,0,1,fuyndtwsfoqidcnczwfmksybwsulyzuhvpljbhoj988,male,27.369418476976495,1,0,244270,440.3164609893679,A10,S
+989,0,2,sugfqzvadbjilrquykiylvqdcraxironbwfwqoue989,female,30.5430167052283,1,4,A/5 2466,5.543015061716221,C65,
+990,0,3,sqdzjfffhelnpjynrigogzjocxoejvoapuxbhteo990,female,29.317274978732645,0,6,111361,320.57389315481385,B49,S
+991,1,1,wgcgdlrhwwgweuoviedhfkysbhpaybbjsdrqvpki991,female,19.068950908373292,3,1,27267,38.672068639183045,F33,
+992,0,1,yexgftuewnbuplxlnqdkiysoviswtrhenidcigtm992,male,65.89809660378073,5,0,248731,456.17088779753533,A10,S
+993,1,3,otqsylnzvdbnpcelbblqanfmvpkaifhdluqwfxnx993,male,39.10140171815114,1,4,347742,346.26751046529216,B77,C
+994,1,3,ulfhjeacaeavogocymxfvkhbrnnrsuoocqanjfpy994,male,45.795635880657116,0,4,693,23.056158081827363,D20,S
+995,1,3,snpehwoyqonigfbvlcgpezdqnfnaxxyebljjczxa995,female,62.078604039509116,0,5,11774,404.16633193989,D28,C
+996,1,3,yyrjdeqesdelfalaojjzhgmkbseftvzngxjoujar996,male,28.355300710666665,0,0,349201,115.43585872620413,C62 C64,S
+997,0,2,pfpxoslbcdbwgodxbyknuoxqlabyydeuzhfnrwwo997,male,63.049294880731495,3,6,SO/C 14885,405.41445004459837,B73,
+998,1,3,fwchyzfblhuvsuepbyhtvqfmxacxuwzocptitaid998,male,24.43037443299106,1,4,248727,319.58726518621233,E40,Q
+999,1,2,cxipsaqgbuowbxzumiyfdtfdiapdndxprtnocmjr999,female,74.75060631028776,8,2,370365,393.0004327009314,C82,S

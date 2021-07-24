@@ -1,0 +1,14 @@
+DataSynthesizer
+Faker==2.0.4
+gretel-synthetics
+jupyterlab
+mesa
+mimesis
+pandas
+plaitpy
+pydbgen
+pyyaml
+scikit-learn
+sdv
+synthia[full]
+timeseries-generator
